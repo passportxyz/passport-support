@@ -1,0 +1,61 @@
+# ☑️ The NFT Stamp
+
+This guide is designed to assist you in leveraging your NFT holdings to enhance your Passport. With the introduction of a new NFT model, verifying your NFT stamp not only showcases your involvement in the Ethereum NFT ecosystem but also reflects the diversity and intrinsic value of your NFT collections. Follow this step-by-step process to verify your NFT stamp under the new criteria.
+
+**Cost:** Free ($0) + fees to mint NFT
+
+**Time:** 5 minutes
+
+**Validity:** 90 days&#x20;
+
+## Prerequisites
+
+* You must own an Ethereum-based NFT
+* NFTs must be ERC-721 or ERC-1155 on the Ethereum Mainnet
+
+## How Does it Work
+
+The inclusion of an NFT stamp serves two primary purposes: it signals your active participation in the Ethereum NFT marketplace and showcases the uniqueness of your collection. The Stamp is categorized into two segments:
+
+1. **Collector's Journey:** This aspect categorizes enthusiasts into levels based on their engagement and collection size on the Ethereum Mainnet. The model-based credentials recognize both ERC-721 NFTs and ERC-115 NFTs.
+   * **Digital Collector:** For those new to the NFT space, starting to build their collection.
+   * **Art Aficionado:** For collectors with a significant, well-curated portfolio that shows a deep engagement in digital art and assets.
+   * **NFT Visionary:** Distinguishes users at the forefront of the NFT movement, showcasing exceptional collections that set trends within the community.&#x20;
+2. **NFT Ownership Verification**
+   * **NFT Holder:** Verifies users possessing at least one ERC-721 NFT on the Ethereum Mainnet, serving as the foundational credential within the NFT stamp category.
+
+## Checking Whether Your NFTs Meet the ERC-721 Standard
+
+You can check your NFTs on the Ethereum Mainnet on Explorer.&#x20;
+
+Go to [https://etherscan.io/](https://etherscan.io/) and put your wallet address in the search bar.&#x20;
+
+On the overview section, select “Token Holdings”, and then “View All Holdings”
+
+On the Token Holdings page, you will see the NFT Assets section where you can check all NFTs you’re holding. You will also be able to see if you have any ERC-721 NFTs, which will make you eligible for the NFT Holder credential.
+
+## Steps to Verify
+
+After confirming that you have the required NFTs, follow these steps to claim the Stamp:
+
+1. Go to [https://app.passport.xyz](https://app.passport.xyz/) and "Sign in with Ethereum" to access your dashboard.
+2. Click Connect on the NFT stamp card.
+3. Click "Check Eligibility".
+4. Confirm your account is now verified. You can confirm this by seeing the button that previously read as “Connect” will now say Verified.
+
+### FAQ:
+
+* **I have an NFT, but I’m unable to claim the NFT Holder credential**\
+  Please verify that your NFT is an ERC-721 like in the image above. You can verify by going to [Etherscan](https://etherscan.io/), putting in your address, and clicking on token holdings. If you have an ERC-721 NFT and you still cannot claim the stamp, please reach out to our Support team
+* **I have an ENS. Why doesn’t that count towards the NFT Holder stamp?**\
+  You need to confirm that your Ethereum Name Service NFT is an ERC-721. The new Name Wrapped NFT is now an ERC-1155 and not an ERC-721
+* **Why did I successfully claim the NFT Holder stamp, but the score was not added?**\
+  If your NFT was transferred from another user who had previously claimed the NFT Holder Passport stamp with that same NFT, you might not see your Passport score updated even though you successfully verified the stamp. You will only get the score for it once the stamp has expired from the previous owner’s wallet [after the 90 day expiration period](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/common-questions/why-have-my-stamps-expired).&#x20;
+* **What NFTs are allowed for the NFT stamp?**\
+  The model-based credentials (Collector’s Journey) recognize both ERC-721 and ERC-1155 NFTs, while the credential for the "NFT Ownership Verification" only recognizes ERC-721.&#x20;
+* **I have many NFTs, why can’t I claim the model-based credentials?**\
+  If your NFT stamp doesn't seem to reflect your activity accurately, or if you have questions about its assessment, we encourage you to initiate a conversation with us through [this dedicated form](https://docs.google.com/forms/d/e/1FAIpQLSfvQdwpCLyL0ZX1zOz_DepTrjbgwo77GwEeK16Z8hPWqoQMTA/viewform). While we can't promise specific outcomes, we are committed to understanding your perspective and providing clarity on your stamp status. We value open dialogue and are here to ensure your engagements and collections are recognized appropriately.
+
+### Troubleshooting
+
+If you run into any issues, please [reach out to support](../../need-support.md). \
