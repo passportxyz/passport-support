@@ -31,17 +31,17 @@ This campaign provides bonus HUMN points to long-time MetaMask users identified 
 
 #### In MetaMask
 
-1. Open [MetaMask Portfolio](https://portfolio.metamask.io/)
-2. Connect your MetaMask wallet and go to the Dashboard
-3. If you are eligible, check for active airdrops
-4. Click the button and proceed to claim
+1. Open [MetaMask Portfolio](https://portfolio.metamask.io/).
+2. Connect your MetaMask wallet and go to the Dashboard.
+3. If you are eligible, check for active airdrops.
+4. Click the button and proceed to claim.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 #### In Human Passport
 
-5. Log in and collect Stamps until your Humanity Score is 20 or higher
-6. Hover over the HUMN icon in the top-right corner to view your total points, including the 1,000 OG bonus if eligible
+5. Log in to the [Passport App](https://app.passport.xyz/) and collect Stamps until your [Humanity Score](../../common-questions/what-is-unique-humanity.md) is [20 or higher](../../using-passport/scoring-20-for-humans.md).
+6. Hover over the HUMN icon in the top-right corner to view your total points, including the 1,000 OG bonus if eligible.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-25 at 16.07.04.png" alt=""><figcaption></figcaption></figure>
 
@@ -59,7 +59,7 @@ This campaign provides bonus HUMN points to long-time MetaMask users identified 
 
 **What if I don’t see the campaign in MetaMask Portfolio?**
 
-* Only theMiracle-selected wallets are eligible. If you don’t see an active airdrop, your wallet did not qualify.&#x20;
+* Only the wallets selected by theMiracle are eligible. If you don’t see an active airdrop in your MetaMask Portfolio, your wallet did not qualify.&#x20;
 
 **What if I already have a Humanity Score of 20+?**
 
@@ -67,7 +67,7 @@ This campaign provides bonus HUMN points to long-time MetaMask users identified 
 
 **How do I know if my bonus points were added?**
 
-* Log into the Passport app and hover over the HUMN icon in the top-right corner. Your total HUMN points, including the bonus, will be displayed.
+* Log into the Passport app and hover over the HUMN icon in the top-right corner. Your total HUMN points, including the bonus, will be displayed. We list all of the scoring artifacts and campaigns.&#x20;
 
 **What is the 2x multiplier?**
 
