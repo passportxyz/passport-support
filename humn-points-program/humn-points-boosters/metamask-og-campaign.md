@@ -43,7 +43,7 @@ This campaign provides bonus HUMN points to long-time MetaMask users identified 
 5. Log in and collect Stamps until your Humanity Score is 20 or higher
 6. Hover over the HUMN icon in the top-right corner to view your total points, including the 1,000 OG bonus if eligible
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-08-25 at 16.07.04.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
