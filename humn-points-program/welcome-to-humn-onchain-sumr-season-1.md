@@ -8,6 +8,8 @@ description: >-
 
 {% hint style="info" %}
 New to Human Passport? Start [here](../).
+
+MetaMask OG bonus? See [here](humn-points-boosters/metamask-og-campaign.md).
 {% endhint %}
 
 **HUMN onchain SUMR** is a new rewards campaign from [human.tech](https://human.tech), designed to recognise and reward real, verified humans who participate in the ecosystem.
@@ -36,8 +38,8 @@ HUMN Points are the means to reward unique humans active in the human.tech ecosy
 
 **Note:** HUMN Points are not the same as your [Unique Humanity Score](../common-questions/what-is-unique-humanity.md) — the score of Passport's proof of humanity.&#x20;
 
-* **Humanity Score** shows how complete your proof of personhood is, and how trustworthy you are in your claim of being a unique human being. You typically need a [score of 20](../using-passport/scoring-20-for-humans.md) to prove you're human and participate in the partner campaigns across web3. You also need a Humanity Score of 20+ as an entry point to start earning HUMN Points.&#x20;
-* **HUMN Points** are a separate point system, reflecting your verified presence and participation in the human.tech ecosystem, of which Human Passport is a part. You collect those points for completing various actions in the Passport app, like minting your Passport onchain or verifying Stamps. See the icon below? It's the visual representation we will be using to display HUMN Points across the app.\
+* **Humanity Score** shows how complete your proof of personhood is, and how trustworthy you are in your claim of being a unique human being. You typically need a [score of 20](../using-passport/scoring-20-for-humans.md) to prove you're human and participate in the partner campaigns across web3. You also need a **Humanity Score of 20+** as an entry point to start earning HUMN Points.&#x20;
+* **HUMN Points** are a separate point system, reflecting your verified presence and participation in the human.tech ecosystem, of which Human Passport is a part. You collect those points for completing various actions in the Passport app, like minting your Passport onchain or verifying [Stamps](../stamps/what-are-stamps.md). See the icon below? It's the visual representation we will be using to display HUMN Points across the app.\
   ![](<../.gitbook/assets/image (59).png>)
 
 {% hint style="warning" %}
