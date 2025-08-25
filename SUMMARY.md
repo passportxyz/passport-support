@@ -42,6 +42,7 @@
   * [Human Keys Creator](humn-points-program/humn-points-boosters/human-keys-creator.md)
   * [Active Campaigns Participant](humn-points-program/humn-points-boosters/active-campaigns-participant.md)
   * [Returning User - 2x Multiplier](humn-points-program/humn-points-boosters/returning-user-2x-multiplier.md)
+  * [MetaMask OG Campaign](humn-points-program/humn-points-boosters/metamask-og-campaign.md)
 * [HUMN Points FAQs](humn-points-program/humn-points-faqs/README.md)
   * [Is it necessary to score 20 in order to start seeing HUMN points?](humn-points-program/humn-points-faqs/is-it-necessary-to-score-20-in-order-to-start-seeing-humn-points.md)
   * [Is it strictly required to mint Passport onchain?](humn-points-program/humn-points-faqs/is-it-strictly-required-to-mint-passport-onchain.md)
