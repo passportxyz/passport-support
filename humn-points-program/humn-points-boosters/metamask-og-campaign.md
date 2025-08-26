@@ -34,9 +34,11 @@ This campaign provides bonus HUMN points to long-time MetaMask users identified 
 1. Open [MetaMask Portfolio](https://portfolio.metamask.io/).
 2. Connect your MetaMask wallet and go to the Dashboard.
 3. If you are eligible, check for active airdrops.
-4. Click the button and proceed to claim.
+4. Click the button near HUMN onchain SUMR and proceed to claim.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 #### In Human Passport
 
