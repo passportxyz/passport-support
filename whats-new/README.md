@@ -2,6 +2,10 @@
 
 Please visit one of the following pages under this section to learn more about how the Human Passport product is changing.&#x20;
 
+{% content-ref url="../partner-campaigns/lido-ics-proof-of-humanity.md" %}
+[lido-ics-proof-of-humanity.md](../partner-campaigns/lido-ics-proof-of-humanity.md)
+{% endcontent-ref %}
+
 {% content-ref url="../humn-points-program/humn-points-boosters/metamask-og-campaign.md" %}
 [metamask-og-campaign.md](../humn-points-program/humn-points-boosters/metamask-og-campaign.md)
 {% endcontent-ref %}
