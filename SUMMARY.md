@@ -7,6 +7,7 @@
 ***
 
 * [What's new](whats-new/README.md)
+  * [Passport Embed: Coming Soon!](whats-new/passport-embed-coming-soon.md)
   * [The Human Passport App Visual Update](whats-new/the-human-passport-app-visual-update.md)
   * [Stamp Re-weight: December 2024](whats-new/stamp-re-weight-december-2024.md)
   * [HUMN Points Program - heads up](whats-new/humn-points-program-heads-up.md)
