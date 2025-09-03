@@ -2,6 +2,10 @@
 
 Please visit one of the following pages under this section to learn more about how the Human Passport product is changing.&#x20;
 
+{% content-ref url="passport-embed-coming-soon.md" %}
+[passport-embed-coming-soon.md](passport-embed-coming-soon.md)
+{% endcontent-ref %}
+
 {% content-ref url="../partner-campaigns/lido-ics-proof-of-humanity.md" %}
 [lido-ics-proof-of-humanity.md](../partner-campaigns/lido-ics-proof-of-humanity.md)
 {% endcontent-ref %}
@@ -21,5 +25,3 @@ Please visit one of the following pages under this section to learn more about h
 {% content-ref url="../stamps/how-do-i-add-passport-stamps/the-biometrics-stamp.md" %}
 [the-biometrics-stamp.md](../stamps/how-do-i-add-passport-stamps/the-biometrics-stamp.md)
 {% endcontent-ref %}
-
-{% embed url="https://x.com/HumnPassport/status/1925204978928660481" %}

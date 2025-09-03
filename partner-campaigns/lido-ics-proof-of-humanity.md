@@ -1,3 +1,7 @@
+---
+icon: hands
+---
+
 # Lido ICS – Proof of Humanity
 
 {% hint style="warning" %}
