@@ -4,6 +4,10 @@ icon: hands
 
 # Recall + Fuul – Proof of Humanity for an Airdrop Claim Campaign
 
+{% hint style="info" %}
+**Government ID verification is currently under heavy load. Some features may be affected — please try again in a few hours once demand stabilises.**
+{% endhint %}
+
 {% hint style="warning" %}
 **Stamp weights and point values for this campaign differ from the defaults in the Passport app (**[**app.passport.xyz**](https://app.passport.xyz)**)**
 {% endhint %}
