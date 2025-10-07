@@ -55,6 +55,8 @@ The Dashboard uses updated Stamp weights to calculate your score. You can add ne
 
 ### Important Notes
 
+* **Government ID verification is currently under heavy load:** Some features may be affected. Your verification with Onfido might get stuck, or you might receive unexpected errors during the process. We recommend waiting for a few hours until the traffic stabilises. You will then be able to verify without the unnecessary hassle.&#x20;
+* **Incomplete/failed verification:** If you experience temporary issues with verification, be assured that all verification sessions are recorded, and you will be able to continue later on. In case of failed verification, [refunds](https://support.passport.xyz/passport-knowledge-base/common-questions/holonym-verification-bug) are possible.&#x20;
 * **Dashboard vs. Main App:** Point values in the Custom Dashboard may differ from the main Passport app. Always use the Recall Dashboard for campaign eligibility.
 * **Stamp Expiry Windows:** Stamps expire every 90 days. Some of the Stamps are renewed automatically (onchain activity, Government ID, Proof of Clean Hands, Biometrics, Phone Verification) as long as the underlying credentials are valid. If you don't see your points added, check the validity of the Stamp and click 'Check Eligibility'. Eligibility checks are free of charge.&#x20;
 * **Credential Expiry:** Some of the credentials underlying Stamps have a limited validity. For example, the human.tech Stamps (Government ID, PoCH, Biometrics, Phone Verification) are valid for one year from the moment of issuance. After the credential expires, you need to pass the full verification process again, including any possible fees.&#x20;
