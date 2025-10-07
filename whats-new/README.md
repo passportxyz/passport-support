@@ -6,8 +6,8 @@ Please visit one of the following pages under this section to learn more about h
 [passport-embed-coming-soon.md](passport-embed-coming-soon.md)
 {% endcontent-ref %}
 
-{% content-ref url="../partner-campaigns/lido-ics-proof-of-humanity.md" %}
-[lido-ics-proof-of-humanity.md](../partner-campaigns/lido-ics-proof-of-humanity.md)
+{% content-ref url="../partner-campaigns/lido-ics-proof-of-humanity-for-identified-community-stakers.md" %}
+[lido-ics-proof-of-humanity-for-identified-community-stakers.md](../partner-campaigns/lido-ics-proof-of-humanity-for-identified-community-stakers.md)
 {% endcontent-ref %}
 
 {% content-ref url="../humn-points-program/humn-points-boosters/metamask-og-campaign.md" %}
