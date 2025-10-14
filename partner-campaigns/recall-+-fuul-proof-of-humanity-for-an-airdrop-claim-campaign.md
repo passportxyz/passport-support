@@ -4,8 +4,8 @@ icon: hands
 
 # Recall + Fuul – Proof of Humanity for an Airdrop Claim Campaign
 
-{% hint style="info" %}
-**Government ID verification is currently under heavy load. Some features may be affected — please try again in a few hours once demand stabilises.**
+{% hint style="danger" %}
+**Note: if your wallet is NOT eligible for the $RECALL claim, there is no point in proceeding with proof of humanity in Human Passport. Please check your eligibility first at** [**https://claim.recall.network/**](https://claim.recall.network/)**.**
 {% endhint %}
 
 {% hint style="warning" %}
@@ -20,7 +20,14 @@ For those who are in need of additional proof of personhood, follow the steps in
 
 ***
 
-### Step 1 — Connect to Recall’s Custom Dashboard
+### Step 1 — Check airdrop eligibility
+
+* Go to [https://claim.recall.network/](https://claim.recall.network/).
+* Check if your wallet is eligible for the airdrop.
+* If eligible, you can either proceed with the claim straight away, or you'll need to proceed with additional humanity verification in Human Passport (Step 2).&#x20;
+* Note: if your wallet is NOT eligible, there is no point in proceeding with proof of humanity in Passport
+
+### Step 2 — Connect to Recall’s Custom Dashboard
 
 * Go to: [Recall Dashboard](https://app.passport.xyz/#/recall/dashboard)
 * Connect your wallet - the same wallet you’ll use for the Recall airdrop claim on Fuul.
@@ -28,7 +35,7 @@ For those who are in need of additional proof of personhood, follow the steps in
 
 ***
 
-### Step 2 — Verify Your Stamps
+### Step 3 — Verify Your Stamps
 
 The Dashboard uses updated Stamp weights to calculate your score. You can add new Stamps to reach the 20+ requirement.
 
@@ -38,7 +45,7 @@ The Dashboard uses updated Stamp weights to calculate your score. You can add ne
 
 ***
 
-### Step 3 — Reach a Score of 20+
+### Step 4 — Reach a Score of 20+
 
 * Already verified Stamps are counted automatically.
 * Add new Stamps if your score is below 20.
@@ -46,7 +53,7 @@ The Dashboard uses updated Stamp weights to calculate your score. You can add ne
 
 ***
 
-### Step 4 — Claim on Recall
+### Step 5 — Claim on Recall
 
 * Navigate to the [Recall Claim Experience](https://claim.recall.network/).
 * Complete your claim directly on Recall’s site, secured by Passport verification.
@@ -55,9 +62,10 @@ The Dashboard uses updated Stamp weights to calculate your score. You can add ne
 
 ### Important Notes
 
-* **Government ID verification is currently under heavy load:** Some features may be affected. Your verification with Onfido might get stuck, or you might receive unexpected errors during the process. We recommend waiting for a few hours until the traffic stabilises. You will then be able to verify without the unnecessary hassle.&#x20;
-* **Incomplete/failed verification:** If you experience temporary issues with verification, be assured that all verification sessions are recorded, and you will be able to continue later on. In case of failed verification, [refunds](https://support.passport.xyz/passport-knowledge-base/common-questions/holonym-verification-bug) are possible.&#x20;
-* **Dashboard vs. Main App:** Point values in the Custom Dashboard may differ from the main Passport app. Always use the Recall Dashboard for campaign eligibility.
+* **If your wallet is NOT eligible for the $RECALL claim, there is no point in proceeding with proof of humanity in Human Passport.** Please check your eligibility first at [https://claim.recall.network/](https://claim.recall.network/).
+* **Government ID verification is under heavy load:** Some features may be affected. Your verification with Onfido might get stuck, or you might receive unexpected errors during the process. If you're having trouble, we recommend waiting for a few hours until the traffic stabilises. You will then be able to verify without the unnecessary hassle.&#x20;
+* **Incomplete/failed verification:** If you experience temporary issues with verification, be assured that all verification sessions are recorded, and you will be able to continue later on. In case of failed verification, [refunds](https://support.passport.xyz/passport-knowledge-base/common-questions/holonym-verification-bug) are possible. [Contact our support](../need-support.md) to receive help.
+* **Dashboard vs. Main App:** Point values in the [Recall's Custom Dashboard](https://app.passport.xyz/#/recall/dashboard) may differ from the main Passport App. Use the Recall Dashboard for this campaign for the preferential Stamp weights.
 * **Stamp Expiry Windows:** Stamps expire every 90 days. Some of the Stamps are renewed automatically (onchain activity, Government ID, Proof of Clean Hands, Biometrics, Phone Verification) as long as the underlying credentials are valid. If you don't see your points added, check the validity of the Stamp and click 'Check Eligibility'. Eligibility checks are free of charge.&#x20;
 * **Credential Expiry:** Some of the credentials underlying Stamps have a limited validity. For example, the human.tech Stamps (Government ID, PoCH, Biometrics, Phone Verification) are valid for one year from the moment of issuance. After the credential expires, you need to pass the full verification process again, including any possible fees.&#x20;
 
