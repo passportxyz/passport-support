@@ -5,7 +5,7 @@ icon: hands
 # Recall + Fuul – Proof of Humanity for an Airdrop Claim Campaign
 
 {% hint style="danger" %}
-**Note: if your wallet is NOT eligible for the $RECALL claim, there is no point in proceeding with proof of humanity in Human Passport. Please check your eligibility first at** [**https://claim.recall.network/**](https://claim.recall.network/)**.**
+**Note: if your wallet is NOT eligible for the $RECALL claim, there is no point in proceeding with proof of humanity in Human Passport. Please check your eligibility first at** [**claim.recall.network**](https://claim.recall.network/)**.**
 {% endhint %}
 
 {% hint style="warning" %}
@@ -20,12 +20,12 @@ For those who are in need of additional proof of personhood, follow the steps in
 
 ***
 
-### Step 1 — Check airdrop eligibility
+### Step 1 — Check Airdrop Eligibility
 
-* Go to [https://claim.recall.network/](https://claim.recall.network/).
+* Go to [claim.recall.network](https://claim.recall.network/).
 * Check if your wallet is eligible for the airdrop.
 * If eligible, you can either proceed with the claim straight away, or you'll need to proceed with additional humanity verification in Human Passport (Step 2).&#x20;
-* Note: if your wallet is NOT eligible, there is no point in proceeding with proof of humanity in Passport
+* _Note: if your wallet is not eligible, there is no point in proceeding with proof of humanity._
 
 ### Step 2 — Connect to Recall’s Custom Dashboard
 
@@ -62,7 +62,7 @@ The Dashboard uses updated Stamp weights to calculate your score. You can add ne
 
 ### Important Notes
 
-* **If your wallet is NOT eligible for the $RECALL claim, there is no point in proceeding with proof of humanity in Human Passport.** Please check your eligibility first at [https://claim.recall.network/](https://claim.recall.network/).
+* **If your wallet is not already eligible for the $RECALL claim, there is no point in proceeding with proof of humanity in Human Passport.** Please check your eligibility at [claim.recall.network](https://claim.recall.network/) before proceeding with your verification.&#x20;
 * **Government ID verification is under heavy load:** Some features may be affected. Your verification with Onfido might get stuck, or you might receive unexpected errors during the process. If you're having trouble, we recommend waiting for a few hours until the traffic stabilises. You will then be able to verify without the unnecessary hassle.&#x20;
 * **Incomplete/failed verification:** If you experience temporary issues with verification, be assured that all verification sessions are recorded, and you will be able to continue later on. In case of failed verification, [refunds](https://support.passport.xyz/passport-knowledge-base/common-questions/holonym-verification-bug) are possible. [Contact our support](../need-support.md) to receive help.
 * **Dashboard vs. Main App:** Point values in the [Recall's Custom Dashboard](https://app.passport.xyz/#/recall/dashboard) may differ from the main Passport App. Use the Recall Dashboard for this campaign for the preferential Stamp weights.
