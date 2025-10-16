@@ -15,4 +15,4 @@ Some important things to keep in mind about this feature:
 
 If eligible, you can see **500 HUMN Points** added to your HUMN score, with **Scored > 20 with 3 or more partner campaigns** as name in the score breakdown.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>

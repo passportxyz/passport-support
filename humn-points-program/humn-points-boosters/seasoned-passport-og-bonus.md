@@ -8,7 +8,7 @@ Your early commitment now shows in points!
 
 If you had a **Humanity Score of 19+** and claimed a **Galxe OAT in the Anti-Sybil Assembly** campaign (July 2023) — you’re part of the original Passport OGs.
 
-Check your [HUMN Points dashboard](https://app.human.tech) to see your bonus.
+Check your [HUMN Points dashboard](https://app.passport.xyz/) to see your bonus.
 
 ## Campaign Reference
 
@@ -48,7 +48,7 @@ Eligible wallets receive bonus HUMN Points automatically — no action needed.
 
 If you're eligible, you will see the points added to your HUMN Score, and a new entry will show in your Score Breakdown.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 ## Summary
 
