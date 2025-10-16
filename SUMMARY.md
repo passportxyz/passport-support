@@ -43,6 +43,7 @@
 * [Quick guide to scoring HUMN Points](humn-points-program/quick-guide-to-scoring-humn-points.md)
 * [HUMN Points boosters](humn-points-program/humn-points-boosters/README.md)
   * [Human Keys Creator](humn-points-program/humn-points-boosters/human-keys-creator.md)
+  * [Seasoned Passport OG Bonus](humn-points-program/humn-points-boosters/seasoned-passport-og-bonus.md)
   * [Active Campaigns Participant](humn-points-program/humn-points-boosters/active-campaigns-participant.md)
   * [Returning User - 2x Multiplier](humn-points-program/humn-points-boosters/returning-user-2x-multiplier.md)
   * [MetaMask OG Campaign](humn-points-program/humn-points-boosters/metamask-og-campaign.md)

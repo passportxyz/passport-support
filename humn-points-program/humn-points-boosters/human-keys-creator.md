@@ -1,13 +1,12 @@
 ---
-hidden: true
 icon: sun-dust
 ---
 
 # Human Keys Creator
 
-Whenever you verify a credential within the Passport app, you are creating a Human Key that represents that verification within the human.tech AVS, Human Network.&#x20;
+Whenever you verify a **credential** within the Passport app, you are creating a **Human Key** that represents that verification within the human.tech AVS, [Human Network](https://network.human.tech/).&#x20;
 
-As part of the points program, you will earn 100 points per Human Key created, meaning that each credential that you verify will earn you additional points.&#x20;
+As part of the points program, you will earn **100 points per Human Key created**, meaning that each credential that you verify will earn you additional points.&#x20;
 
 {% hint style="info" %}
 **What's the difference between Stamps and credentials?**
