@@ -13,6 +13,7 @@
   * [HUMN Points Program - heads up](whats-new/humn-points-program-heads-up.md)
 * [Partner campaigns](partner-campaigns/README.md)
   * [Recall + Fuul – Proof of Humanity for an Airdrop Claim Campaign](partner-campaigns/recall-+-fuul-proof-of-humanity-for-an-airdrop-claim-campaign.md)
+  * [Unlock Protocol – memberships and access control](partner-campaigns/unlock-protocol-memberships-and-access-control.md)
   * [Lido ICS – Proof of Humanity for Identified Community Stakers](partner-campaigns/lido-ics-proof-of-humanity-for-identified-community-stakers.md)
   * [Shape Stack – Proof of Humanity in Shape Stack](partner-campaigns/shape-stack-proof-of-humanity-in-shape-stack.md)
   * [Gitcoin Grants 22](partner-campaigns/gitcoin-grants-22.md)
