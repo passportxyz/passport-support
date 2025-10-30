@@ -1,6 +1,6 @@
 ---
 description: Verify Only Your Lens Handle
-noIndex: true
+hidden: true
 ---
 
 # ❗ The Lens Stamp
