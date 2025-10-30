@@ -1,6 +1,6 @@
-# ☑️ The zkEmail Stamp
+# ☑️ The ZK Email Stamp
 
-Verify your Amazon and Uber activity using zero-knowledge email analysis provided by zkEmail. Earn up to 6 different credentials based on your Amazon shipping and Uber rides, all while keeping your email data completely private.&#x20;
+Verify your Amazon and Uber activity using zero-knowledge email analysis provided by ZK Email. Earn up to 6 different credentials based on your Amazon shipping and Uber rides, all while keeping your email data completely private.&#x20;
 
 {% hint style="info" %}
 **Note:** Only Google Gmail accounts are currently supported.
@@ -30,31 +30,31 @@ Verify your Amazon and Uber activity using zero-knowledge email analysis provide
 ### Start the Verification Process
 
 1. Click the _"Check Eligibility"_ button in your Human Passport dashboard
-2. You'll be redirected to the zkEmail verification interface
+2. You'll be redirected to the ZK Email verification interface
 3. Review the privacy notice explaining how your data is protected
 
-**What's happening:** zkEmail prepares to analyze your email patterns without accessing your actual email content
+**What's happening:** ZK Email prepares to analyze your email patterns without accessing your actual email content
 {% endstep %}
 
 {% step %}
 ### Connect Your Google Account
 
-1. Click _"Connect Google Account"_ on the zkEmail interface
+1. Click _"Connect Google Account"_ on the ZK Email interface
 2. Sign in to your Google account when prompted
-3. Review the permissions requested by zkEmail:
+3. Review the permissions requested by ZK Email:
    1. Read-only access to email metadata
    2. Permission to scan for purchase patterns
 4. Click _"Allow"_ to grant permissions
 
 {% hint style="info" %}
-**Privacy Note:** zkEmail uses zero-knowledge proofs to verify your purchase patterns without ever seeing your actual emails or personal information.
+**Privacy Note:** ZK Email uses zero-knowledge proofs to verify your purchase patterns without ever seeing your actual emails or personal information.
 {% endhint %}
 {% endstep %}
 
 {% step %}
 ### Email Analysis & Credential Assignment
 
-1. zkEmail scans your inbox for Amazon and Uber patterns:
+1. ZK Email scans your inbox for Amazon and Uber patterns:
    * Looks for purchase confirmations from Amazon in your inbox and archive
    * Searches for ride receipts from Uber in your inbox or archive
 2. Analysis typically takes anywhere from 15 seconds to a couple of minutes
@@ -67,7 +67,7 @@ Verify your Amazon and Uber activity using zero-knowledge email analysis provide
 {% step %}
 ### Verify the additions in your Human Passport dashboard
 
-Congratulations! Your zkEmail credentials are now active in your Passport.
+Congratulations! Your ZK Email credentials are now active in your Passport.
 {% endstep %}
 {% endstepper %}
 

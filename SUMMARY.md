@@ -91,7 +91,7 @@
   * [☑️ The Proof of Clean Hands Stamp](stamps/how-do-i-add-passport-stamps/the-proof-of-clean-hands-stamp.md)
   * [☑️ The Snapshot Stamp](stamps/how-do-i-add-passport-stamps/connecting-snapshot-to-passport.md)
   * [❗ The Lens Stamp](stamps/how-do-i-add-passport-stamps/the-lens-stamp.md)
-  * [☑️ The zkEmail Stamp](stamps/how-do-i-add-passport-stamps/the-zkemail-stamp.md)
+  * [☑️ The ZK Email Stamp](stamps/how-do-i-add-passport-stamps/the-zk-email-stamp.md)
   * [☑️ The Civic Stamp](stamps/how-do-i-add-passport-stamps/the-civic-stamp.md)
   * [🔌 The Outdid Stamp](stamps/how-do-i-add-passport-stamps/guide-to-add-outdid-stamp-to-passport.md)
   * [🔌 The Trusta Stamp](stamps/how-do-i-add-passport-stamps/the-trusta-stamp.md)
