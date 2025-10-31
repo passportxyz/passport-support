@@ -16,7 +16,14 @@ Some actions are more straightforward than others. Below, we explain some of tho
 [returning-user-2x-multiplier.md](returning-user-2x-multiplier.md)
 {% endcontent-ref %}
 
+{% content-ref url="seasoned-passport-og-bonus.md" %}
+[seasoned-passport-og-bonus.md](seasoned-passport-og-bonus.md)
+{% endcontent-ref %}
+
+{% content-ref url="metamask-og-campaign.md" %}
+[metamask-og-campaign.md](metamask-og-campaign.md)
+{% endcontent-ref %}
+
 {% hint style="info" %}
 You need to have a Unique Humanity Score of 20+ to start seeing HUMN Points!
 {% endhint %}
-
