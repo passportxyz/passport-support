@@ -48,21 +48,25 @@
   * [Active Campaigns Participant](humn-points-program/humn-points-boosters/active-campaigns-participant.md)
   * [Returning User - 2x Multiplier](humn-points-program/humn-points-boosters/returning-user-2x-multiplier.md)
   * [MetaMask OG Campaign](humn-points-program/humn-points-boosters/metamask-og-campaign.md)
-* [HUMN Points FAQs](humn-points-program/humn-points-faqs/README.md)
-  * [Is it necessary to score 20 in order to start seeing HUMN points?](humn-points-program/humn-points-faqs/is-it-necessary-to-score-20-in-order-to-start-seeing-humn-points.md)
-  * [Is it strictly required to mint Passport onchain?](humn-points-program/humn-points-faqs/is-it-strictly-required-to-mint-passport-onchain.md)
-  * [Does it matter on which chain do I mint my Passport?](humn-points-program/humn-points-faqs/does-it-matter-on-which-chain-do-i-mint-my-passport.md)
-  * [What actions score points for users?](humn-points-program/humn-points-faqs/what-actions-score-points-for-users.md)
+* [HUMN Points FAQ](humn-points-program/humn-points-faq/README.md)
+  * [Is it necessary to score 20 in order to start seeing HUMN points?](humn-points-program/humn-points-faq/is-it-necessary-to-score-20-in-order-to-start-seeing-humn-points.md)
+  * [Is it strictly required to mint Passport onchain?](humn-points-program/humn-points-faq/is-it-strictly-required-to-mint-passport-onchain.md)
+  * [Does it matter on which chain do I mint my Passport?](humn-points-program/humn-points-faq/does-it-matter-on-which-chain-do-i-mint-my-passport.md)
+  * [What actions score points for users?](humn-points-program/humn-points-faq/what-actions-score-points-for-users.md)
 
 ## Using Passport
 
 * [Creating a Passport](using-passport/creating-a-passport.md)
 * [Scoring 20, for humans](using-passport/scoring-20-for-humans.md)
 * [Using Human Passport with Partners](using-passport/using-human-passport-with-partners.md)
-* [Passport Embed](using-passport/passport-embed.md)
 * [Onchain Passport](using-passport/onchain-passport.md)
 * [Custom Passport dashboards and scores](using-passport/custom-passport-dashboards-and-scores.md)
 * [Passport API and Smart Contracts](using-passport/passport-api-and-smart-contracts.md)
+
+## Passport Embed
+
+* [What is Passport Embed?](passport-embed/what-is-passport-embed.md)
+* [Passport Embed FAQ](passport-embed/passport-embed-faq.md)
 
 ## STAMPS
 

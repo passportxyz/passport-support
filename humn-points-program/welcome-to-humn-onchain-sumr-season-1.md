@@ -98,7 +98,7 @@ How to know you are qualified?&#x20;
 
 If you’ve already done these things before the snapshot, you’re likely earning HUMN Points already.&#x20;
 
-In case you have trouble collecting points, [follow the FAQs ](humn-points-faqs/)or [contact support](../need-support.md).
+In case you have trouble collecting points, [follow the FAQs ](humn-points-faq/)or [contact support](../need-support.md).
 
 ***
 
