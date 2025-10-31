@@ -4,7 +4,9 @@
 
 [**Passport Embed**](https://passport.human.tech/embed) lets websites verify that you are a real, unique person without sending you elsewhere. It is a React component that connects to the same trusted backend as the [Passport App](https://app.passport.xyz). When you click “Verify with Passport,” it checks your [Unique Humanity](../common-questions/what-is-unique-humanity.md) score using [Stamps](broken-reference) — privacy-preserving proofs from your web3 activity or selected web2 accounts or government documents — and confirms that you are human, all while staying on the same site. Verification per Stamps is optional and you can build your Humanity Score however you like.&#x20;
 
-See [scoring-20-for-humans.md](scoring-20-for-humans.md "mention") for more information about available Stamps.
+See [scoring-20-for-humans.md](scoring-20-for-humans.md "mention") for more information about available Stamps and [full announcement blog](https://passport.human.tech/blog/passport-embed-is-live-bring-privacy-preserving-proof-of-humanity-directly-into-your-dapp-or-website) for more high-level overview. See Loom video for the [Passport Embed walkthrough](https://app.gitbook.com/u/fnvMNUN77Sh8QlKhdti5dfPWCjj1).&#x20;
+
+{% embed url="https://www.loom.com/share/bb23acaaffec464e83ef36d6d70c10bc" %}
 
 ### How it works&#x20;
 
