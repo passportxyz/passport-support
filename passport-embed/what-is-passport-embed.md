@@ -35,4 +35,6 @@ While integrating, they can set their desired score requirement. We recommend us
 * **Community trust:** When everyone accessing a certain feature has a passing Unique Humanity score, the community can trust that those participants are genuine. This leads to better discussions, fairer token distributions, more reliable poll results, etc.&#x20;
 * **Ease of integration:** (For partners) It’s very easy to add Embed to a site. No need to build a verification system from scratch. You can[ learn more in our docs](https://docs.passport.xyz/building-with-passport/embed/introduction).
 
-To summarize, Passport Embeds is like having a universal “humanity badge” you carry to different sites. For users, it means proving yourself once and reusing that proof everywhere. For sites, it means keeping bad actors out while welcoming good users in, with minimal friction. This also means you’ll likely see more and more sites using Passport Embeds, creating a network effect where your one Passport unlocks multiple doors across the web.\
+To summarize, Passport Embeds is like having a universal “humanity badge” you carry to different sites. For users, it means proving yourself once and reusing that proof everywhere. For sites, it means keeping bad actors out while welcoming good users in, with minimal friction. This also means you’ll likely see more and more sites using Passport Embeds, creating a network effect where your one Passport unlocks multiple doors across the web.
+
+**See Passport Embed FAQ:** [passport-embed-faq.md](passport-embed-faq.md "mention")\
