@@ -13,7 +13,7 @@ If an application uses Human Passport, it will display a "**Connect**" or "**Sig
 Behind the scenes, the app will send a request to your Passport score, review that score, and provide access if your score is above a threshold set by the partner (we recommend a [score of 20](scoring-20-for-humans.md)).&#x20;
 
 * If you pass, you will gain access to the program or campaign that the partner is protecting
-* If you fail, you will be asked to either build up your Passport score more via the [Passport app](https://app.passport.xyz), or choose a different verification method
+* If you fail, you will be asked to either build up your Passport score more via the [Passport app](https://app.passport.xyz) or [Embed](passport-embed.md), or choose a different verification method
 
 {% hint style="info" %}
 Be sure to sign in using the same Ethereum address that you used to create your Passport!

@@ -59,6 +59,7 @@
 * [Creating a Passport](using-passport/creating-a-passport.md)
 * [Scoring 20, for humans](using-passport/scoring-20-for-humans.md)
 * [Using Human Passport with Partners](using-passport/using-human-passport-with-partners.md)
+* [Passport Embed](using-passport/passport-embed.md)
 * [Onchain Passport](using-passport/onchain-passport.md)
 * [Custom Passport dashboards and scores](using-passport/custom-passport-dashboards-and-scores.md)
 * [Passport API and Smart Contracts](using-passport/passport-api-and-smart-contracts.md)
