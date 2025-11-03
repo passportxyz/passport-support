@@ -12,6 +12,12 @@ This page explains the flow for members and for organizers, with clear steps and
 
 ***
 
+### Live Demo
+
+{% embed url="https://x.com/HumnPassport/status/1983957555417379328" %}
+
+***
+
 ### Quick glossary
 
 * **Lock:** an Unlock smart contract that issues memberships or tickets.

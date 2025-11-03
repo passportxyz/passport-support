@@ -2,8 +2,8 @@
 
 Please visit one of the following pages under this section to learn more about how the Human Passport product is changing.&#x20;
 
-{% content-ref url="passport-embed-coming-soon.md" %}
-[passport-embed-coming-soon.md](passport-embed-coming-soon.md)
+{% content-ref url="passport-embed-free-for-all-builders.md" %}
+[passport-embed-free-for-all-builders.md](passport-embed-free-for-all-builders.md)
 {% endcontent-ref %}
 
 {% content-ref url="../partner-campaigns/lido-ics-proof-of-humanity-for-identified-community-stakers.md" %}
