@@ -156,6 +156,40 @@ As with any Passport Stamp, the ZK Email Stamp is optional, so if you’re still
 
 Learn more: [https://docs.zk.email/architecture/zk-proofs](https://docs.zk.email/architecture/zk-proofs)
 
+## FAQ
+
+#### **Can I revoke email reading permissions given to ZK Email?**
+
+Yes. Users can revoke reading permission in their Gmail settings once the proof is generated.
+
+#### **Is this privacy-preserving? Nobody shares my email content?**&#x20;
+
+Yes, fully. No personal data is stored or shared, and there is no link between email and the wallet. Here’s the full ZK Email zk tech explainer: [ZK Email Documentation](https://docs.zk.email/architecture/zk-proofs)
+
+#### Which international Amazon domains are supported other than amazon.com?
+
+India, Japan, Spain, USA, Germany, Canada, UK, Poland, Sweden, Netherlands, Italy, France, Mexico, UAE.&#x20;
+
+#### Can I verify with Outlook or Protonmail?
+
+No, currently only Gmail is supported.&#x20;
+
+#### Is there any fee for verifying this Stamp?
+
+There is no fee. Verification is fully free of charge.&#x20;
+
+#### What exact type of emails are you looking for with this Stamp?
+
+Zk Email scans for Uber receipts and Amazon shipping notifications.&#x20;
+
+#### Do emails have to be stored in a specific place to be counted?
+
+Yes, they have to be in the main Inbox or in the Archive.&#x20;
+
+#### What if I keep my email inbox clean?
+
+Unfortunately, we won't be able to confirm your Amazon and Uber history, so you won't be assigned points for this Stamp.&#x20;
+
 ## Need Help?
 
 ### Troubleshooting Steps
