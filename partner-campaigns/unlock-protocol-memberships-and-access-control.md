@@ -14,6 +14,10 @@ This page explains the flow for members and for organizers, with clear steps and
 
 ### Live Demo
 
+{% hint style="warning" %}
+**Note: this demo initialises hook deployment on the Ethereum mainnet, which is NOT supported.** Networks supported for the Hook deployment include: Base, Optimism, Arbitrum, BNB Chain, Gnosis, Ethereum Sepolia (testnet), and Base Sepolia (testnet). Switch your wallet to one of the supported networks in advance!
+{% endhint %}
+
 {% embed url="https://x.com/HumnPassport/status/1983957555417379328" %}
 
 ***
@@ -66,6 +70,10 @@ This page explains the flow for members and for organizers, with clear steps and
 
 You can require a minimum Passport Score before a buyer can purchase or claim a Key from your Lock. The check runs at checkout via an Unlock Passport Hook you enable in the dashboard.
 
+{% hint style="info" %}
+Networks supported for the Hook deployment include: Base, Optimism, Arbitrum, BNB Chain, Gnosis, Ethereum Sepolia (testnet), and Base Sepolia (testnet).&#x20;
+{% endhint %}
+
 #### Set up the Passport Hook
 
 1.  **Open your Lock in the Unlock dashboard**
@@ -77,10 +85,11 @@ You can require a minimum Passport Score before a buyer can purchase or claim a 
 3.  **Add the Passport Hook**
 
     Select the hook that checks Gitcoin Passport / Passport Score. This is the integration that enforces a Score threshold at checkout.
-4.  **Set the Score threshold**
+4. **Switch your wallet to one of the supported networks:** Base, Optimism, Arbitrum, BNB Chain, Gnosis, Ethereum Sepolia (testnet), and Base Sepolia (testnet).&#x20;
+5.  **Set the Score threshold**
 
-    Choose the minimum Passport Score a buyer must have for the purchase to succeed. Save your changes.
-5. **Test the flow**
+    Choose the minimum Passport Score a buyer must have for the purchase to succeed. Save your changes and pay the transaction fee.&#x20;
+6. **Test the flow**
    * Use a wallet with a known Score above the threshold to confirm success.
    *   Use a wallet with a low or zero Score to confirm the hook blocks checkout.
 
