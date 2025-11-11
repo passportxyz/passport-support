@@ -2,7 +2,7 @@
 
 We're sorry to hear about your compromised wallet.
 
-Luckily we do have a workaround for you! The vast majority of our Stamps can be transferred to a new wallet pretty quickly by following a specific set of steps, outlined below.&#x20;
+Luckily, we do have a workaround for you! The vast majority of our Stamps can be transferred to a new wallet pretty quickly by following a specific set of steps, outlined below.&#x20;
 
 Before we get into this, there is one thing that you’ll need to understand:\
 
@@ -24,5 +24,5 @@ For the scores to show up properly in the Passport app for your new wallet, you 
 Here are some specific instructions, per Stamp, on how to transfer to a new account:
 
 * **Binance** – Follow instructions on the [BABT website](https://www.binance.com/en/BABT). You will need to revoke the BABT from your old account, then wait for 72 hrs, and then mint the BABT again on your new wallet.
-* **Coinbase** – You can attest to your new wallet at [Coinbase Onchain Verify](https://www.coinbase.com/onchain-verify)
-* **Civic** - For the uniqueness credential, you must [revoke your previous pass](https://support.civic.com/hc/en-us/articles/6863422230167-What-if-I-completed-verification-with-the-wrong-wallet-address) for a new uniqueness credential to be issued.
+* **Coinbase** – You can attest to your new wallet at [Coinbase Onchain Verify](https://www.coinbase.com/onchain-verify).&#x20;
+* **human.tech** (GovID, Phone, Biometrics, Proof of Clean Hands) - human.tech SBTs are valid for one year from the minting date. You'll have to wait until the SBTs expire to claim those Stamps from a different wallet.
