@@ -19,7 +19,7 @@ While some actions count toward _both_ scores (like collecting Stamps), the syst
 
 A Humanity Score of 20 or higher unlocks HUMN Points tracking. It's also the score typically required for partner campaigns protected by Human Passport — **the humanity threshold**.&#x20;
 
-We continuously evaluate the [Models](broken-reference)' scores and[ Stamp weights](../stamps/how-is-gitcoin-passports-score-calculated.md) to keep the score of 20+ at the optimal balance between user convenience and Sybil resistance.&#x20;
+We continuously evaluate the [Models](/broken/pages/T2q8bbW59EyMDYS7R9AR)' scores and[ Stamp weights](../stamps/how-is-gitcoin-passports-score-calculated.md) to keep the score of 20+ at the optimal balance between user convenience and Sybil resistance.&#x20;
 
 {% hint style="warning" %}
 If your Humanity score is below 20, you won’t qualify for the HUMN rewards, even if you collected some HUMN Points

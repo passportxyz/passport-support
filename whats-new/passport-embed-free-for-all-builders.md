@@ -14,6 +14,6 @@ With Passport Embed, we provide the Stamp verification directly on the partner's
 
 **Learn more:**&#x20;
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/diGKX4A1e4NX4NPZMJ2l" %}
+[Broken link](/broken/pages/diGKX4A1e4NX4NPZMJ2l)
 {% endcontent-ref %}

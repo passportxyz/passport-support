@@ -8,4 +8,4 @@ Stamp deduplication is essential to prevent users from increasing their influenc
 
 For more information on Stamp Deduplication, please check [here](https://docs.passport.xyz/building-with-passport/major-concepts/deduplicating-stamps).
 
-\
+<br>

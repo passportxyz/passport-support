@@ -41,4 +41,4 @@ Integrating your GitHub account with your Passport not only demonstrates your co
 
 If you run into any issues, please [reach out to support](../../need-support.md).&#x20;
 
-\
+<br>

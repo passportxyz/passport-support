@@ -38,18 +38,15 @@ Fees:$0.05 USDC or Eth + network gas fees.
 
 Steps:
 
-1.  Click the [Civic](https://getpass.civic.com/?scope=uniqueness,captcha,liveness\&chain=polygon,arbitrum%20one,xdc,ethereum,fantom,optimism,base,avalanche\&referrer=gitcoin-passport) link on your Passport.\
-
+1.  Click the [Civic](https://getpass.civic.com/?scope=uniqueness,captcha,liveness\&chain=polygon,arbitrum%20one,xdc,ethereum,fantom,optimism,base,avalanche\&referrer=gitcoin-passport) link on your Passport.<br>
 
     <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 2. Choose 'CAPTCHA Verification' from the options.
-3. Press 'Connect' and select your preferred network.\
-
+3. Press 'Connect' and select your preferred network.<br>
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdtMZk0yesvfYKE9Dk3yh38ZE32DpQwo8tgtXldmfSHp4Rb3_ZE15laTk_LWOHu9dSeNzdDtbb7-c-1RFCR-_Etp1B3N_e5lUabHyhT6GnJ8xWGEPIsGyoQ4OZ6mqJ1esHFb8jIN4Kv0JihH0DVxE0VrkAC?key=8oK8Sfk6WYk-oocsqC34ZA" alt="" width="375"><figcaption></figcaption></figure>
 
-4. Connect your wallet and confirm you are not a bot.\
-
+4. Connect your wallet and confirm you are not a bot.<br>
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeLkYev2ixDPOUAIU7eHWoz7CFVhwPd15XQYJdXeuPN-vCAz0637rtX0JIldnF6ahbQ6T_z238TSpE80t_o5WTHN0DczroTZTwpifnuSeZp0Id2TlzYM_dU_sxNqXCj4O_9e0zxK3Ohd2JtLaouHPsF1ac?key=8oK8Sfk6WYk-oocsqC34ZA" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -79,17 +76,14 @@ Steps:
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeh_XLEI-Tmsk9PERwMHBBulcZpPdl8dXzVtHIVvhMPf_Gegk4CxehicMoVNawwFHFNyHWGuvm2azoJbBwcSK_9Uuqu3kBjRG8SsqmYGR12QYyLozaretVehVaZeomCdZPLHUnvlavNv4OlcCaw7aDCHGU?key=8oK8Sfk6WYk-oocsqC34ZA" alt="" width="375"><figcaption></figcaption></figure>
 
-5.  Agree to the terms by checking the boxes.\
-
+5.  Agree to the terms by checking the boxes.<br>
 
     <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdxGhFHiF7ybQCtM-hmjvjMCK-Kyqrw87bVHVu3AKqTuVtEScWAbqUwT1oejuj6KP1TNwdsz05IBJniupWd4_g_USNCl0V5kcUX022R2wjUZtDl7WwcZNLF_lte2tqQIE1KxczyzMi30gJHL4Adrt2cb5LT?key=8oK8Sfk6WYk-oocsqC34ZA" alt="" width="375"><figcaption></figcaption></figure>
-6. Begin the verification and prove wallet ownership.\
-
+6. Begin the verification and prove wallet ownership.<br>
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfxn0Yd2w4Xqo8KyYMT7SciuFBJxs4KRf1QgMdXcA6WmBqwpBFySBOBtfnps0PgGnTB2OC0AeBC6Py4SzTMXg_iPWkMredV41eDrCH6ft5Y0eka5fJ0eGTipFp_AvEaEBgtS6pO58CAY16Km8jsWLXOz1Xv?key=8oK8Sfk6WYk-oocsqC34ZA" alt="" width="375"><figcaption></figcaption></figure>
 
-7. Record your video selfie using a camera.\
-
+7. Record your video selfie using a camera.<br>
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfxQRYLyw9cBGfkUMWsYr4cJUrajFLKDAqGU4bQQcjvA0f-4jW7jnsleSI_BeZmgfKrgaI3Bno-unYwI_DPk7uGlYJFwRJUNBQN_GopQng5vHmnZAiW2q-oovjwPe_0nWAALePHsvDnmmNq4zHsQciHROTf?key=8oK8Sfk6WYk-oocsqC34ZA" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -112,13 +106,11 @@ Steps:
    ![](<../../.gitbook/assets/image (9).png>)
 2. Choose 'Liveness Verification' from the dropdown.
 3. Press 'Get Pass' and consent to the legal terms.
-4. Proceed with verification and confirm wallet ownership.\
-
+4. Proceed with verification and confirm wallet ownership.<br>
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfxn0Yd2w4Xqo8KyYMT7SciuFBJxs4KRf1QgMdXcA6WmBqwpBFySBOBtfnps0PgGnTB2OC0AeBC6Py4SzTMXg_iPWkMredV41eDrCH6ft5Y0eka5fJ0eGTipFp_AvEaEBgtS6pO58CAY16Km8jsWLXOz1Xv?key=8oK8Sfk6WYk-oocsqC34ZA" alt="" width="375"><figcaption></figcaption></figure>
 
-5. Record a successful video selfie.\
-
+5. Record a successful video selfie.<br>
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdKWyFSxjU3b_zr9X8c-hjPtSFUsFaDtYsdZKavzgpSOzAcKTTFUXU7bUOMJXdzOp5vcAcCh4xzd2bSxhKaXNSHld1YPk3nIZLHZDi5IEH36MviOT6-A4ZEYUXD8HWQeO5GPFr7t2D2u5DpF3hVLKIZBURr?key=8oK8Sfk6WYk-oocsqC34ZA" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -126,8 +118,7 @@ Steps:
 7. Finalize the transaction with your wallet.
 8. Your Liveness Pass is valid and active.
 
-Support: Visit our [FAQ](https://support.civic.com/hc/en-us/articles/16621325797399-Gitcoin-FAQ) or [Discord](https://discord.com/invite/MWmhXauJw8/) for help.\
-
+Support: Visit our [FAQ](https://support.civic.com/hc/en-us/articles/16621325797399-Gitcoin-FAQ) or [Discord](https://discord.com/invite/MWmhXauJw8/) for help.<br>
 
 Please visit [Civic's official website](https://www.civic.com/) for more details on the services and additional context. Keep your Passport secure and up-to-date with Civic verification stamps.
 

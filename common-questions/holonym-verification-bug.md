@@ -46,8 +46,7 @@ If verification was unsuccessful, you can request a refund by reviewing our [ref
 
 You can retry verification at this point in time, and a previous failed verification fee will be automatically applied to your reverification.&#x20;
 
-If you tried verification multiple times that resulted in failure, _you can collect a refund. See our_ [_refund guide here_](https://docs.holonym.id/introduction/faqs/how-can-i-get-a-refund-for-my-holonym-kyc-or-phone-verification)_._" Payment errors will automatically be addressed, but verification failures require user action (for refund or reverification).\
-
+If you tried verification multiple times that resulted in failure, _you can collect a refund. See our_ [_refund guide here_](https://docs.holonym.id/introduction/faqs/how-can-i-get-a-refund-for-my-holonym-kyc-or-phone-verification)_._" Payment errors will automatically be addressed, but verification failures require user action (for refund or reverification).<br>
 
 ***
 

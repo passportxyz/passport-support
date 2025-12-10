@@ -14,8 +14,8 @@ Please visit one of the following pages under this section to learn more about h
 [metamask-og-campaign.md](../humn-points-program/humn-points-boosters/metamask-og-campaign.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/wBwuIL45tDOhcFy2JE7Y" %}
+[Broken link](/broken/pages/wBwuIL45tDOhcFy2JE7Y)
 {% endcontent-ref %}
 
 {% content-ref url="the-human-passport-app-visual-update.md" %}

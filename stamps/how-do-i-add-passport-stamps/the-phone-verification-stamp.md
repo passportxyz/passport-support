@@ -60,4 +60,4 @@ After confirming that you have passed the verification, follow these steps to cl
 
 If you run into any issues, please [reach out to support](../../need-support.md).&#x20;
 
-\
+<br>

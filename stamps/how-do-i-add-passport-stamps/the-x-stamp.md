@@ -1,4 +1,8 @@
-# ☑️ The Safe Stamp
+---
+hidden: true
+---
+
+# ☑️ The X Stamp
 
 This guide is designed to facilitate the verification of your Safe Stamp (previously Gnosis Safe) on Human Passport, affirming your proactive role in securing digital assets with a trusted multi-signature wallet on the Ethereum network. By completing this verification, you solidify your standing within the web3 community as a user prioritizing security and ownership verification.
 

@@ -75,4 +75,4 @@ The flow is as follows:
 5. The `GitcoinAttester` contract writes the attestation data to the Ethereum Attestation Service.
 6. Other smart contracts, or offchain apps, can now query the data by calling functions in the `GitcoinAttester` contract.
 
-\
+<br>

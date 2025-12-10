@@ -1,7 +1,6 @@
 # Why am I receiving zero points for a verified Stamp?
 
-At times, you may encounter a situation where a newly verified Stamp appears to be verified, but it gives you zero (0) points.\
-
+At times, you may encounter a situation where a newly verified Stamp appears to be verified, but it gives you zero (0) points.<br>
 
 _**The primary reason for this discrepancy is typically the claiming of the same Stamp using multiple wallet addresses.**_
 
@@ -11,8 +10,7 @@ Here are the details.
 
 * _**When attempting to claim a Stamp using more than one wallet address,**_ the score associated with second, third, etc wallet addresses will display a zero (0) score for duplicate Stamps in the Passport app.&#x20;
 * _**When participating in partner programs,**_ you can ignore the 0 score for these Stamps. The first wallet containing a duplicate Stamp that is submitted to a partner program will count the duplicate Stamp score. Any other addresses submitted to that same partner program will not count the duplicate Stamp score.&#x20;
-* If you'd like the duplicate Stamp to permanently move to another address and display properly in the Passport app, you will need to wait until that Stamp expires within the first wallet after the 90 day expiration period, then reverify that Stamp in the new wallet.\
-
+* If you'd like the duplicate Stamp to permanently move to another address and display properly in the Passport app, you will need to wait until that Stamp expires within the first wallet after the 90 day expiration period, then reverify that Stamp in the new wallet.<br>
 
 We also discuss this concept in our hacked (compromised) wallet FAQ:
 

@@ -10,8 +10,7 @@ Proof of Clean Hands (PoCH) is a privacy-preserving way to prove you are not pre
 
 **Time:** \~5 minutes
 
-**Validity**: 90 days Stamp / 1 year PoCH\
-
+**Validity**: 90 days Stamp / 1 year PoCH<br>
 
 ## Prerequisites
 

@@ -19,8 +19,7 @@ This detailed guide is designed to assist you in adding the Guild Stamp to your 
 
 ## How to verify your Guild Stamp
 
-You need to ensure that you are eligible to claim the Stamp. Browse to [https://guild.xyz/explorer](https://guild.xyz/explorer) and connect your wallet to see that you are a member of Passport Guild. \
-
+You need to ensure that you are eligible to claim the Stamp. Browse to [https://guild.xyz/explorer](https://guild.xyz/explorer) and connect your wallet to see that you are a member of Passport Guild. <br>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-09-26 at 11.41.46.png" alt=""><figcaption></figcaption></figure>
 

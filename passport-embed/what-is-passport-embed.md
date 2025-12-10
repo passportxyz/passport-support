@@ -1,6 +1,6 @@
 # What is Passport Embed?
 
-[**Passport Embed**](https://passport.human.tech/embed) lets websites verify that you are a real, unique person without sending you elsewhere. It is a React component that connects to the same trusted backend as the [Passport App](https://app.passport.xyz). When you click “Verify with Passport,” it checks your [Unique Humanity](../common-questions/what-is-unique-humanity.md) score using [Stamps](broken-reference) — privacy-preserving proofs from your web3 activity or selected web2 accounts or government documents — and confirms that you are human, all while staying on the same site. Verification per Stamps is optional and you can build your Humanity Score however you like.&#x20;
+[**Passport Embed**](https://passport.human.tech/embed) lets websites verify that you are a real, unique person without sending you elsewhere. It is a React component that connects to the same trusted backend as the [Passport App](https://app.passport.xyz). When you click “Verify with Passport,” it checks your [Unique Humanity](../common-questions/what-is-unique-humanity.md) score using [Stamps](/broken/pages/4OxH7lj6TaW26Scbkib0) — privacy-preserving proofs from your web3 activity or selected web2 accounts or government documents — and confirms that you are human, all while staying on the same site. Verification per Stamps is optional and you can build your Humanity Score however you like.&#x20;
 
 See [scoring-20-for-humans.md](../using-passport/scoring-20-for-humans.md "mention") for more information about available Stamps and [full announcement blog](https://passport.human.tech/blog/passport-embed-is-live-bring-privacy-preserving-proof-of-humanity-directly-into-your-dapp-or-website) for more high-level overview. See Loom video for the [Passport Embed walkthrough](https://app.gitbook.com/u/fnvMNUN77Sh8QlKhdti5dfPWCjj1).&#x20;
 
@@ -37,4 +37,4 @@ While integrating, they can set their desired score requirement. We recommend us
 
 To summarize, Passport Embeds is like having a universal “humanity badge” you carry to different sites. For users, it means proving yourself once and reusing that proof everywhere. For sites, it means keeping bad actors out while welcoming good users in, with minimal friction. This also means you’ll likely see more and more sites using Passport Embeds, creating a network effect where your one Passport unlocks multiple doors across the web.
 
-**See Passport Embed FAQ:** [passport-embed-faq.md](passport-embed-faq.md "mention")\
+**See Passport Embed FAQ:** [passport-embed-faq.md](passport-embed-faq.md "mention")<br>

@@ -55,11 +55,10 @@ After confirming that you have passed the ID verification, follow these steps to
 3. Click "Check Eligibility".
 4. Confirm your account is now verified. You can confirm this by seeing that the button that previously read as “Connect” will now say Verified.
 
-By following these steps, your Passport will be equipped with the Holonym Stamp, confirming your verified identity in a secure and private manner.\
-
+By following these steps, your Passport will be equipped with the Holonym Stamp, confirming your verified identity in a secure and private manner.<br>
 
 ## Troubleshooting
 
 If you run into any issues, please [reach out to support](../../need-support.md).&#x20;
 
-\
+<br>

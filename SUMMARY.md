@@ -63,12 +63,7 @@
 * [Custom Passport dashboards and scores](using-passport/custom-passport-dashboards-and-scores.md)
 * [Passport API and Smart Contracts](using-passport/passport-api-and-smart-contracts.md)
 
-## Passport Embed
-
-* [What is Passport Embed?](passport-embed/what-is-passport-embed.md)
-* [Passport Embed FAQ](passport-embed/passport-embed-faq.md)
-
-## STAMPS
+## PASSPORT STAMPS <a href="#stamps" id="stamps"></a>
 
 * [What are Passport Stamps?](stamps/what-are-stamps.md)
 * [Passport Stamp Weights](stamps/how-is-gitcoin-passports-score-calculated.md)
@@ -84,8 +79,10 @@
   * [☑️ The Ethereum Stamp](stamps/how-do-i-add-passport-stamps/verifying-ethereum-transactions-to-passport.md)
   * [☑️ The Gitcoin Stamp](stamps/how-do-i-add-passport-stamps/connecting-gitcoin-grants-to-passport.md)
   * [☑️ The GitHub Stamp](stamps/how-do-i-add-passport-stamps/connecting-a-github-account-to-passport.md)
-  * [☑️ The Safe Stamp](stamps/how-do-i-add-passport-stamps/gnosis-safe-stamp.md)
   * [☑️ The Google Stamp](stamps/how-do-i-add-passport-stamps/connecting-a-google-account-to-passport.md)
+  * [☑️ The Safe Stamp](stamps/how-do-i-add-passport-stamps/gnosis-safe-stamp.md)
+  * [☑️ The X Stamp](stamps/how-do-i-add-passport-stamps/the-x-stamp.md)
+  * [☑️ The Steam Stamp](stamps/how-do-i-add-passport-stamps/the-steam-stamp.md)
   * [☑️ The Guild.xyz Stamp](stamps/how-do-i-add-passport-stamps/the-guild.xyz-stamp.md)
   * [☑️ The Government ID Stamp](stamps/how-do-i-add-passport-stamps/the-government-id-stamp.md)
   * [☑️ The Idena Stamp](stamps/how-do-i-add-passport-stamps/idena-stamp.md)
@@ -102,15 +99,20 @@
   * [🔌 The Trusta Stamp](stamps/how-do-i-add-passport-stamps/the-trusta-stamp.md)
   * [🔌 The zkSync Stamp](stamps/how-do-i-add-passport-stamps/zksync-stamp.md)
 
-## Model-Based Detection
+## Passport Embed
+
+* [What is Passport Embed?](passport-embed/what-is-passport-embed.md)
+* [Passport Embed FAQ](passport-embed/passport-embed-faq.md)
+
+## PASSPORT MODELS <a href="#model-based-detection" id="model-based-detection"></a>
 
 * [Guide to Model-Based Detection](model-based-detection/guide-to-model-based-detection.md)
 
-## GTC STAKING
+## IDENTITY STAKING
 
-* [GTC Staking on your Identity](gtc-staking/identity-staking-questions.md)
-* [How to get GTC on your preferred network](gtc-staking/how-to-get-gtc-on-your-preferred-network.md)
-* [Guide to Unstaking Staked GTC Tokens via Etherscan with WalletConnect](gtc-staking/guide-to-unstaking-staked-gtc-tokens-via-etherscan-with-walletconnect.md)
-* [Initiating GTC Staking with your network](gtc-staking/initiating-gtc-staking-with-your-network.md)
-* [Passport Slashing: What You Need to Know](gtc-staking/passport-slashing.md)
-* [GTC Staking FAQ](gtc-staking/gtc-staking-faq.md)
+* [GTC Staking on your Identity](identity-staking/identity-staking-questions.md)
+* [How to get GTC on your preferred network](identity-staking/how-to-get-gtc-on-your-preferred-network.md)
+* [Guide to Unstaking Staked GTC Tokens via Etherscan with WalletConnect](identity-staking/guide-to-unstaking-staked-gtc-tokens-via-etherscan-with-walletconnect.md)
+* [Initiating GTC Staking with your network](identity-staking/initiating-gtc-staking-with-your-network.md)
+* [Passport Slashing: What You Need to Know](identity-staking/passport-slashing.md)
+* [GTC Staking FAQ](identity-staking/gtc-staking-faq.md)

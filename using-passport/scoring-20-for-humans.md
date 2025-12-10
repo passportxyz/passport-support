@@ -10,8 +10,7 @@ So, you’ve [created your Passport](creating-a-passport.md) and are working on 
 
 Now what?
 
-This guide for humans will explain the easiest route to get a passing score, and will also link off to some other guides on how to verify other key Stamps and credentials on Passport. \
-
+This guide for humans will explain the easiest route to get a passing score, and will also link off to some other guides on how to verify other key Stamps and credentials on Passport. <br>
 
 ## High-score Stamps
 

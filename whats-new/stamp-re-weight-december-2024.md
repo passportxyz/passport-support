@@ -44,8 +44,7 @@ These adjustments deliver a more reliable, secure, and user-friendly verificatio
 
 For this Stamp reweight, the Stamps that are being adjusted and that you have verified will not see any changes until they expire (90 days after verifying)&#x20;
 
-Your score may fluctuate as part of this update, but not until the affected Stamps that you’ve verified expire. Once the zkSync, Trusta, Coinbase, Binance, and Eth Activity Stamps expire within your Passport, zkSync and Trusta will be fully retired, and you will be able to reverify the others with the updated score weights. \
-
+Your score may fluctuate as part of this update, but not until the affected Stamps that you’ve verified expire. Once the zkSync, Trusta, Coinbase, Binance, and Eth Activity Stamps expire within your Passport, zkSync and Trusta will be fully retired, and you will be able to reverify the others with the updated score weights. <br>
 
 #### What is the new criteria for the ETH Activity Stamp?
 
@@ -65,8 +64,7 @@ If you can’t verify this Stamp, don’t worry. We have plenty of other Stamps 
 
 #### Why is the Trusta Stamp being removed?
 
-The new ETH Activity Stamp provides a very similar signal as the Trusta Stamp, so we decided to reduce complexity and rely on models that we can actively adjust as we see Sybil behavior change. \
-
+The new ETH Activity Stamp provides a very similar signal as the Trusta Stamp, so we decided to reduce complexity and rely on models that we can actively adjust as we see Sybil behavior change. <br>
 
 **Why is the zkSync Stamp being removed?**
 
@@ -88,8 +86,7 @@ For those users who had Coinbase and/or Binance verified at the time of the scor
 1. One will be labeled as “retired”. This is the credential that is grandfathered in. When it expires, it will retire and disappear.&#x20;
 2. The other is the new credential with the new score weight.&#x20;
 
-If you still have a retired Stamp, we recommend that you keep that Stamp until it expires, and then verify the new Stamp. \
-
+If you still have a retired Stamp, we recommend that you keep that Stamp until it expires, and then verify the new Stamp. <br>
 
 #### Are you removing points entirely?
 
@@ -97,25 +94,22 @@ For any of the credentials that are being removed or reduced, we’ll be reapply
 
 You can review the new score weights at the following link:
 
-[Passport's Stamp weights](../stamps/how-is-gitcoin-passports-score-calculated.md)\
-
+[Passport's Stamp weights](../stamps/how-is-gitcoin-passports-score-calculated.md)<br>
 
 **Is Passport pay-to-play?**
 
 It is not.&#x20;
 
-Passport is a public good that continues to provide an identity verification system that is easy and cheap for all users, while also providing a strong human/Sybil signal for our 100+ partners who have relied on Passport’s tools to protect rewards, governance, and other community programs. \
-
+Passport is a public good that continues to provide an identity verification system that is easy and cheap for all users, while also providing a strong human/Sybil signal for our 100+ partners who have relied on Passport’s tools to protect rewards, governance, and other community programs. <br>
 
 **How do I build up a score of 20?**
 
 We created a guide that lists all of our free Stamps, Stamps that are great for crypto beginners, and other groupings of Stamps to help you out:
 
-[Scoring 20, for humans](https://support.passport.xyz/passport-knowledge-base/using-passport/scoring-20-for-humans#building-up-a-score-with-free-stamps)\
-
+[Scoring 20, for humans](https://support.passport.xyz/passport-knowledge-base/using-passport/scoring-20-for-humans#building-up-a-score-with-free-stamps)<br>
 
 **How can I request for a new Stamp to be added?**
 
 We would love to learn more about Stamps that may be high quality signals to help real humans prove their humanity. We are exploring a number of other Stamps, and would love your ideas as well.&#x20;
 
-Open a [support ticket](../need-support.md) and let us know.\
+Open a [support ticket](../need-support.md) and let us know.<br>

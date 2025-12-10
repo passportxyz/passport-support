@@ -50,4 +50,4 @@ To verify and  claim your Stamp, follow these simple steps:
 
 ### Troubleshooting
 
-If you run into any issues, please [reach out to support](../../need-support.md). \
+If you run into any issues, please [reach out to support](../../need-support.md). <br>

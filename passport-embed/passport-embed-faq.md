@@ -1,6 +1,6 @@
 # Passport Embed FAQ
 
-### **Q: What is Passport Embeds, in simple terms?**
+### **Q: What is Passport Embed, in simple terms?**
 
 Passport Embed is an embeddable component that websites and apps can use to verify that you’re a real, unique human — without leaving their site. Think of it as a privacy-preserving “Captcha for web3,” powered by your Human Passport.
 
@@ -75,8 +75,7 @@ Here’s how it works behind the scenes:
 
 *   **No exposure of personal details**
 
-    No names, emails, phone numbers, or social handles are ever shared. The site never sees your private data — only that your Passport meets the verification criteria.\
-
+    No names, emails, phone numbers, or social handles are ever shared. The site never sees your private data — only that your Passport meets the verification criteria.<br>
 
 In short, Passport Embed shares the minimum information needed to confirm you’re a unique human, nothing more. You stay pseudonymous, private, and in control of your data.
 
@@ -100,7 +99,7 @@ You can manage your Passport on the main Passport app (app.passport.xyz). When y
 * All the stamps you’ve collected, often with details or statuses.
 * Available Stamp options to add new verifications.
 
-### Q: What kinds of sites or applications use Passport Embeds?
+### Q: What kinds of sites or applications use Passport Embed?
 
 A variety of web3 and even web2 platforms are starting to use Passport Embeds. Examples include:
 

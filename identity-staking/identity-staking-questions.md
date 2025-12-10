@@ -39,16 +39,14 @@ There are two options for Staking your GTC.
 
     1. Connect Wallet: Browse to the [GTC Staking page](https://stake.passport.xyz/#/home) and connect your wallet.
     2.  Choose Amount: Click the “Your Stake” section, choose the amount you want to stake and the lockup period.\
-        \
-
+        <br>
 
         <figure><img src="../.gitbook/assets/Screenshot 2024-09-26 at 11.28.28 (1).png" alt=""><figcaption></figcaption></figure>
     3. Authorize Contract: Initiate the first transaction to grant permission for the smart contract to access and utilize your GTC tokens. Confirm this authorization through your wallet.
     4. Complete Staking: After authorizing, confirm the staking transaction. Follow your wallet’s instructions to finish the staking process.
     5. Verify Stake: Once transactions are complete, your stake will appear on the dashboard under the “Your Stake” section.
 
-    \
-
+    <br>
 
     <figure><img src="../.gitbook/assets/Screenshot 2024-09-26 at 11.30.28 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -61,8 +59,7 @@ There are two options for Staking your GTC.
 * Steps:
   1. Connect Wallet: Browse to the [GTC Staking page](https://stake.passport.xyz/#/home) and connect your wallet.
   2.  Choose Amount: Click the “Stake for Others” section, input the address you want to stake on, the amount you want to stake,  and the lockup period.\
-      \
-
+      <br>
 
       <figure><img src="../.gitbook/assets/Screenshot 2024-09-26 at 11.32.22 (1).png" alt=""><figcaption></figcaption></figure>
   3. Authorize Contract: Initiate the first transaction to grant permission for the smart contract to access and utilize your GTC tokens. Confirm this authorization through your wallet. (Note: You may not see this approval step if you’ve already done authorization)

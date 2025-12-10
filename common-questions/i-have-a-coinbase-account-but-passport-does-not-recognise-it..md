@@ -8,4 +8,4 @@ It is likely that your Coinbase is linked to a different wallet than the one use
 
 You can follow this [guide](https://support.passport.xyz/passport-knowledge-base/stamps/how-do-i-add-passport-stamps/guide-to-add-binance-stamp-to-passport/guide-to-add-coinbase-stamp-to-passport) on how to link your external wallet to Coinbase.&#x20;
 
-\
+<br>

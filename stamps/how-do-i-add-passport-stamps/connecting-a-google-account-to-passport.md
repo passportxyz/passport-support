@@ -34,4 +34,4 @@ If you run into any issues, please [reach out to support](../../need-support.md)
   Passport's scoring system assigns scores based on unique wallet addresses. If a Stamp is claimed for the same Google account across multiple wallets, only the first claim will enhance your score. This measure prevents exploitation and maintains the integrity of scoring. To attribute the Stamp to another wallet, the existing Stamp must reach its 90-day expiry. See[ here](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/common-questions/why-is-my-passport-score-not-adding-up) for detailed insights into Stamp validity and scoring mechanics.
 
 \
-\
+<br>

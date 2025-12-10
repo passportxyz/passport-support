@@ -6,8 +6,7 @@ hidden: true
 
 **What is Passport XYZ?**
 
-Passport XYZ is a decentralized identity (DID) platform designed to provide users with a single, reusable, and secure web3 identity. It allows individuals and organizations to manage their digital identities, permissions, and credentials across multiple platforms in a privacy-preserving manner.\
-
+Passport XYZ is a decentralized identity (DID) platform designed to provide users with a single, reusable, and secure web3 identity. It allows individuals and organizations to manage their digital identities, permissions, and credentials across multiple platforms in a privacy-preserving manner.<br>
 
 **How can I donate to Passport XYZ during GG22?**
 
@@ -17,8 +16,7 @@ To donate, visit the [Passport XYZ page on Gitcoin Grants](https://explorer.gitc
 
 **What types of donations are accepted?**
 
-Passport XYZ accepts donations in cryptocurrency through Gitcoin, primarily Ethereum (ETH). Other tokens supported by Gitcoin may also be accepted—check the platform for details on available donation methods.\
-
+Passport XYZ accepts donations in cryptocurrency through Gitcoin, primarily Ethereum (ETH). Other tokens supported by Gitcoin may also be accepted—check the platform for details on available donation methods.<br>
 
 **What is the Sybil Resistance Strategy implemented by Gitcoin in GG22?**
 
@@ -27,13 +25,11 @@ There are two key components:
 * Connection-oriented cluster matching (COCM): This method analyzes the donation patterns to identify the "uniqueness" of donations and reduce the impact of airdrop farmers or Sybil attackers who donate to the same projects repeatedly.
 * Passport XYZ’s Model Based Detection: This tool reviews the onchain history of donors to boost the influence of users with legitimate onchain activities across multiple chains, increasing their contribution to the matching pool.
 
-Together, these methods increase the accuracy of fund distribution by an estimated 20%. Learn more from the[ gov post](https://gov.gitcoin.co/t/our-sybil-resistance-strategy-for-gg20/18524).\
-
+Together, these methods increase the accuracy of fund distribution by an estimated 20%. Learn more from the[ gov post](https://gov.gitcoin.co/t/our-sybil-resistance-strategy-for-gg20/18524).<br>
 
 **Does this Sybil resistance mean new wallets won’t qualify for matching?**
 
-Wallets without significant onchain history may not contribute to matching funds in GG22, but their donations will still go directly to the projects they support. We’re focusing on enhancing the web3 experience this round, and in the future, we plan to provide solutions for non-web3 natives, such as fiat on-ramping.\
-
+Wallets without significant onchain history may not contribute to matching funds in GG22, but their donations will still go directly to the projects they support. We’re focusing on enhancing the web3 experience this round, and in the future, we plan to provide solutions for non-web3 natives, such as fiat on-ramping.<br>
 
 **How does quadratic funding work in GG22?**
 
@@ -60,4 +56,4 @@ There is no strict minimum, but small donations are encouraged as they help maxi
 
 For additional information or assistance, please visit passport.xyz or contact us through our [support channel](../need-support.md).
 
-\
+<br>

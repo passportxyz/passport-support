@@ -4,11 +4,9 @@ We're sorry to hear about your compromised wallet.
 
 Luckily, we do have a workaround for you! The vast majority of our Stamps can be transferred to a new wallet pretty quickly by following a specific set of steps, outlined below.&#x20;
 
-Before we get into this, there is one thing that you’ll need to understand:\
+Before we get into this, there is one thing that you’ll need to understand:<br>
 
-
-_**The following steps will work properly with partner programs, but will display a zero (0) score for duplicate Stamps via the Passport app. You can ignore the 0 score for these Stamps in the Passport app, knowing that they are being scored properly by the partner program.**_ \
-
+_**The following steps will work properly with partner programs, but will display a zero (0) score for duplicate Stamps via the Passport app. You can ignore the 0 score for these Stamps in the Passport app, knowing that they are being scored properly by the partner program.**_ <br>
 
 1. Create a new Passport using your new wallet
 2. Start to verify Stamps with this new Passport – we provide some Stamp-specific instructions below

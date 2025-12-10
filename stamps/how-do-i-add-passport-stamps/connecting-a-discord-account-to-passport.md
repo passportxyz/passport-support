@@ -37,4 +37,4 @@ This guide is your go-to resource for linking your Discord account with your Pas
 
 If you run into any issues, please [reach out to support](../../need-support.md).&#x20;
 
-\
+<br>

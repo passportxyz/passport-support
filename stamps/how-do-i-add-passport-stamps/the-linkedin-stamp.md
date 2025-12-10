@@ -33,4 +33,4 @@ If you run into any issues, please [reach out to support](../../need-support.md)
 * **Why did I successfully claim the Stamp but the score was not added?**\
   When attempting to claim a Stamp using more than one wallet address, the score associated with subsequent wallet addresses will not be added. It can happen if you already verified the same Linkedin account on a different Passport wallet. In order to obtain points in a different wallet, you will have to wait for the verified Stamp to expire. Each Stamp has a 90-day expiration. See [here](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/common-questions/why-is-my-passport-score-not-adding-up) for more information.
 
-\
+<br>

@@ -58,4 +58,4 @@ After confirming that you have the required NFTs, follow these steps to claim th
 
 ### Troubleshooting
 
-If you run into any issues, please [reach out to support](../../need-support.md). \
+If you run into any issues, please [reach out to support](../../need-support.md). <br>

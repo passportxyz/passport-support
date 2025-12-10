@@ -2,7 +2,7 @@
 icon: hands
 ---
 
-# Shape Stack – Proof of Humanity
+# Shape Stack – Proof of Humanity in Shape Stack
 
 Welcome to the Shape Stack Proof of Personhood Campaign support page. This guide will help users understand how to build their Unique Humanity score through Shape's [Custom Passport](https://support.passport.xyz/passport-knowledge-base/using-passport/custom-passport-dashboards-and-scores) and earn Silver and Gold rewards by achieving specific score thresholds.
 
@@ -82,8 +82,7 @@ Below is the breakdown of the Shape dashboard’s Stamps and their respective we
 | Google                 | 1  |
 | Discord                | 1  |
 
-\
-
+<br>
 
 ***
 
