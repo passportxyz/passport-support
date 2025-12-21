@@ -36,6 +36,7 @@
   * [Why am I receiving zero points for a verified Stamp?](common-questions/why-am-i-receiving-zero-points-for-a-verified-stamp.md)
   * [Why is my score on the Passport app different than my score on a partner site?](common-questions/why-is-my-score-on-the-passport-app-different-than-my-score-on-a-partner-site.md)
   * [Can I integrate Human Passport into my project?](common-questions/can-i-integrate-gitcoin-passport-into-my-dapp.md)
+  * [Does Human Passport support login with smart wallets?](common-questions/does-human-passport-support-login-with-smart-wallets.md)
 
 ## HUMN Points Program
 
