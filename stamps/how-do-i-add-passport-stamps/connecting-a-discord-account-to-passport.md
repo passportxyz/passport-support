@@ -14,7 +14,11 @@ This guide is your go-to resource for linking your Discord account with your Pas
 
 ## Prerequisites
 
-* Ensure you have an active Discord account before proceeding. If you're not already a Discord user, you can sign up at discord.com.&#x20;
+* Ensure you have an active Discord account that meets the requirements:
+  * ✅ Discord account age > 365 days
+  * ✅ Member of 10+ servers
+  * ✅ Has 2+ verified external connections (Twitter, GitHub, Steam, etc.)
+  * If you're not already a Discord user, you can sign up at discord.com.&#x20;
 
 ## How to verify your Discord account
 
