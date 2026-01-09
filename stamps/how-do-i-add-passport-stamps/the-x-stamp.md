@@ -1,46 +1,86 @@
----
-hidden: true
----
-
 # ☑️ The X Stamp
 
-This guide is designed to facilitate the verification of your Safe Stamp (previously Gnosis Safe) on Human Passport, affirming your proactive role in securing digital assets with a trusted multi-signature wallet on the Ethereum network. By completing this verification, you solidify your standing within the web3 community as a user prioritizing security and ownership verification.
+The X Stamp is free to claim and verifies the status and longevity of an X account. It is based on existing account signals that indicate sustained, credible use over time.
 
-**Cost:** Free, excluding gas fees for creating a Safe wallet
+To qualify, an account must hold an eligible verified status, maintain a minimum follower count, and demonstrate age beyond one year. These signals help distinguish established accounts from newly created or low-effort profiles.
 
-**Time:** 5 minutes
+**Cost:** Free
+
+**Time:** 1-2 minutes
 
 **Validity:** 90 days
 
-**Networks you can use:** Ethereum Mainnet
-
 ## Prerequisites
 
-* Owner/Signer of Safe account
-* Safe account on Ethereum Network
+* Verified X profile:
+  * ✅ Has verified status: Premium, Premium+, Business, Government, or Legacy verification
+  * ✅ At least 100 followers
+  * ✅ Account age > 365 days
 
-## How to verify your Safe Stamp
+## Step-by-Step Guide
 
-Verify that you meet the prerequisites above.
+{% stepper %}
+{% step %}
+### Navigate to the Steam Stamp
 
-Browse to [https://app.safe.global/welcome](https://app.safe.global/welcome)
+Go to the Passport app ([app.passport.xyz](https://app.passport.xyzapp.passport.xyz)), connect your wallet, find the X Stamp card, and open it.&#x20;
+{% endstep %}
 
-If you have safe accounts already, you should see the option “My Safe Accounts” below.
+{% step %}
+### Start Verification
 
-When you click the button, you will be able to confirm that you have a Safe account on Ethereum
+Click 'Check Eligibility' to connect and confirm ownership of your X account. Your account will be automatically verified against qualification criteria.
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe0n2PIzibo9ZW5SrwWChyYpibhriHpATGxyvsTTCkyGw9a5IG5HN_LgIatfGlOhqFJ_fwqyecH-ClZBBRD31Zi8fHgCjOJStisCWrirjo3s01O6CgKkJIxMxc2-Fzv3PpcF466kxWCV8AMAGUoIsn1y4kA?key=plsSQTrwaa_1Bi0nxv6MIQ" alt=""><figcaption></figcaption></figure>
-
-\
-Once you can confirm that you have a Safe account on Ethereum, proceed to the next steps:
-
-1. Go to [https://app.passport.xyz/](https://app.passport.xyz/) and "Sign in with Ethereum" to access your dashboard.
-2. Click Connect on the Safe Stamp card.
-3. Click “Check Eligibility”.
-4. Confirm your account is now verified. You can confirm this by seeing the button that previously read as Connect will now say Verified.
+{% hint style="info" %}
+**Note:** Every 90 days, the X Stamp expires; you can redo the Stamp verification for free.
+{% endhint %}
+{% endstep %}
+{% endstepper %}
 
 ## Troubleshooting
 
 If you run into any issues, please [reach out to support](../../need-support.md).&#x20;
 
-<br>
+## FAQ
+
+<details>
+
+<summary>Why does the Stamp expire after 90 days?</summary>
+
+This helps keep the credential fresh and defensible, while not making users verify too often.\
+\
+Renewal happens with one click — no extra steps or fees unless your proof expires.
+
+</details>
+
+<details>
+
+<summary>Can I transfer the Stamp to another wallet?</summary>
+
+Yes, with time. You can claim your Stamp from another wallet at any time. However, the points will be assigned to this other wallet when the Stamp expires on the current wallet. Stamps expire every 90 days.&#x20;
+
+</details>
+
+<details>
+
+<summary>Is this Stamp free to verify?</summary>
+
+Yes, this is a free Stamp. If you are an avid gamer with plenty of game time, you will be able to improve your humanity score with this Stamp completely free of charge.&#x20;
+
+</details>
+
+<details>
+
+<summary>Can I connect another X account?</summary>
+
+Yes, you can connect another account.&#x20;
+
+</details>
+
+<details>
+
+<summary>Do I need to meet all 4 criteria to earn points?</summary>
+
+You must meet ALL four criteria to receive this Stamp. There are no partial points granted for qualifying for less.&#x20;
+
+</details>

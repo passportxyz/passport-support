@@ -13,15 +13,10 @@ This detailed guide is designed to assist you in adding the Guild Stamp to your 
 * For the Guild Admin Stamp:
   * You must be an owner or admin of at least one Guild
   * The Guild must have more than 250 members
-* Guild Passport Member Stamp:
-  * You must be a member of [Human Passport Guild](https://guild.xyz/gitcoinpassport)
-  * You must have at least 1 role in the Passport Guild
 
 ## How to verify your Guild Stamp
 
 You need to ensure that you are eligible to claim the Stamp. Browse to [https://guild.xyz/explorer](https://guild.xyz/explorer) and connect your wallet to see that you are a member of Passport Guild. <br>
-
-<figure><img src="../../.gitbook/assets/Screenshot 2024-09-26 at 11.41.46.png" alt=""><figcaption></figcaption></figure>
 
 After checking that you’re eligible for the Stamp, follow these steps:
 

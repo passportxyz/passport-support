@@ -7,6 +7,7 @@
 ***
 
 * [What's new](whats-new/README.md)
+  * [Stamp re-weight: January 2026](whats-new/stamp-re-weight-january-2026.md)
   * [Passport Embed: Free for all builders!](whats-new/passport-embed-free-for-all-builders.md)
   * [The Human Passport App Visual Update](whats-new/the-human-passport-app-visual-update.md)
   * [Stamp Re-weight: December 2024](whats-new/stamp-re-weight-december-2024.md)
@@ -71,8 +72,8 @@
 * [What are Model-Based Stamps: Ethereum and NFT](stamps/what-are-model-based-stamps-ethereum-and-nft.md)
 * [Understanding Your Eligibility for the Gitcoin Grants Stamp on Human Passport](stamps/understanding-your-eligibility-for-the-gitcoin-grants-stamp-on-human-passport.md)
 * [How to verify Stamps on Human Passport?](stamps/how-do-i-add-passport-stamps/README.md)
-  * [☑️ The Biometrics Stamp](stamps/how-do-i-add-passport-stamps/the-biometrics-stamp.md)
   * [☑️ The Binance Stamp](stamps/how-do-i-add-passport-stamps/the-binance-stamp.md)
+  * [☑️ The Biometrics Stamp](stamps/how-do-i-add-passport-stamps/the-biometrics-stamp.md)
   * [☑️ The BrightID Stamp](stamps/how-do-i-add-passport-stamps/connecting-brightid-to-passport.md)
   * [☑️ The Coinbase Stamp](stamps/how-do-i-add-passport-stamps/the-coinbase-stamp.md)
   * [☑️ The Discord Stamp](stamps/how-do-i-add-passport-stamps/connecting-a-discord-account-to-passport.md)

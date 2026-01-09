@@ -2,7 +2,6 @@
 description: >-
   This guide describes what's changing, why it's changing, and addresses some
   frequently asked questions.
-hidden: true
 noIndex: true
 icon: scale-unbalanced-flip
 ---

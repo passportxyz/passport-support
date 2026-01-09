@@ -2,6 +2,7 @@
 description: >-
   This guide simplifies the process for connecting your Idena account with
   Passport
+hidden: true
 ---
 
 # ☑️ The Idena Stamp

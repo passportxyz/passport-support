@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ☑️ The BrightID Stamp
 
 This guide is designed to facilitate the integration of your BrightID with Passport, enhancing your profile's credibility and trust within the ecosystem by verifying your unique human identity.
