@@ -42,7 +42,9 @@
 
 ## HUMN Points Program
 
-* [Welcome to HUMN onchain SUMR: Season 1](humn-points-program/welcome-to-humn-onchain-sumr-season-1.md)
+* [HUMN Season 2 is live at manifest.human.tech](humn-points-program/humn-season-2-is-live-at-manifest.human.tech.md)
+* [HUMN Season 1: wrap-up](humn-points-program/humn-season-1-wrap-up.md)
+* [Welcome to HUMN onchain SUMR: Season 1 \[finished\]](humn-points-program/welcome-to-humn-onchain-sumr-season-1-finished.md)
 * [Score 20, start collecting HUMN Points](humn-points-program/score-20-start-collecting-humn-points.md)
 * [Quick guide to scoring HUMN Points](humn-points-program/quick-guide-to-scoring-humn-points.md)
 * [HUMN Points boosters](humn-points-program/humn-points-boosters/README.md)

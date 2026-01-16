@@ -6,7 +6,7 @@ icon: sun
 
 ## Season 1 has ended
 
-[HUMN Season 1](../humn-points-program/welcome-to-humn-onchain-sumr-season-1.md) is now complete. The season focused on verifying unique human participation using Human Passport.
+[HUMN Season 1](../humn-points-program/welcome-to-humn-onchain-sumr-season-1-finished.md) is now complete. The season focused on verifying unique human participation using Human Passport.
 
 ### Season 1 at a glance
 

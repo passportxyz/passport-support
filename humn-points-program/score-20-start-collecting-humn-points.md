@@ -11,7 +11,7 @@ These two scores are related, not the same:
     Your existing score in the Human Passport app. It measures how strong your proof of personhood is, based on the quality, diversity, and trust level of your Stamps.
 *   **HUMN Points:**
 
-    A new rewards system that tracks your onchain presence as a verified human. It connects to the reward program — the [HUMN onchain SUMR](welcome-to-humn-onchain-sumr-season-1.md).
+    A new rewards system that tracks your onchain presence as a verified human. It connects to the reward program — the [HUMN onchain SUMR](welcome-to-humn-onchain-sumr-season-1-finished.md).
 
 While some actions count toward _both_ scores (like collecting Stamps), the systems are different and not one-to-one.
 
@@ -35,7 +35,7 @@ Follow this guide to reach your **Humanity Score of 20**:
 2. Collect Stamps from providers that you feel comfortable with; Stamps have different weights and costs of issuance
 3. Aim for Stamps with high point values  (e.g., government ID, biometrics) if you want to build your score faster
 4. Check your score after each Stamp to see your progress
-5. Once you reach 20, you will automatically qualify to take part in the [HUMN onchain SUMR](welcome-to-humn-onchain-sumr-season-1.md) rewards program
+5. Once you reach 20, you will automatically qualify to take part in the [HUMN onchain SUMR](welcome-to-humn-onchain-sumr-season-1-finished.md) rewards program
 
 > Need help choosing which Stamps to collect? \
 > Check our [Guide to Collecting Stamps](https://support.passport.xyz/passport-knowledge-base/using-passport/scoring-20-for-humans).
@@ -55,6 +55,6 @@ Still not showing up? [Reach out to support](../need-support.md), and we’ll ta
 
 ### Learn more
 
-* [What are HUMN Points?](welcome-to-humn-onchain-sumr-season-1.md)
+* [What are HUMN Points?](welcome-to-humn-onchain-sumr-season-1-finished.md)
 * [2x Multiplier for returning users](humn-points-boosters/returning-user-2x-multiplier.md)
 * [What is Unique Humanity?](https://support.passport.xyz/passport-knowledge-base/common-questions/what-is-unique-humanity)

@@ -2,7 +2,7 @@
 icon: hands
 ---
 
-# Lido ICS – Proof of Humanity
+# Lido ICS – Proof of Humanity for Identified Community Stakers
 
 {% hint style="warning" %}
 **Stamp weights and point values for this campaign differ from the defaults in the Passport app (**[**app.passport.xyz**](https://app.passport.xyz)**)**
@@ -32,7 +32,7 @@ Lido’s Community Staking Module uses a mix of verification methods, with Human
 * Scores are mapped 1:1 into Lido’s own system (max 8 points).
 * The score is capped at 8 points.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Custom scoring breakdown:
 
@@ -125,9 +125,9 @@ Lido’s Community Staking Module uses a mix of verification methods, with Human
 
 With ICS, all independent stakers can join on better terms, improving Ethereum’s decentralisation.&#x20;
 
-Once verified with Human Passport, their score also counts for different campaigns across web3, including ongoing [HUMN onchain SUMR](../humn-points-program/welcome-to-humn-onchain-sumr-season-1.md).&#x20;
+Once verified with Human Passport, their score also counts for different campaigns across web3, including ongoing [HUMN onchain SUMR](../humn-points-program/welcome-to-humn-onchain-sumr-season-1-finished.md).&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

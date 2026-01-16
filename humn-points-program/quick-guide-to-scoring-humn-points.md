@@ -1,6 +1,6 @@
 # Quick guide to scoring HUMN Points
 
-HUMN Points are part of [_HUMN onchain SUMR_](welcome-to-humn-onchain-sumr-season-1.md) — a rewards campaign for humans verified with [Human Passport](https://app.passport.xyz). This guide explains exactly how to start collecting points.
+HUMN Points are part of [_HUMN onchain SUMR_](welcome-to-humn-onchain-sumr-season-1-finished.md) — a rewards campaign for humans verified with [Human Passport](https://app.passport.xyz). This guide explains exactly how to start collecting points.
 
 ***
 
@@ -72,6 +72,6 @@ Stay updated:
 
 #### Related Articles
 
-* [What are HUMN Points?](welcome-to-humn-onchain-sumr-season-1.md)
+* [What are HUMN Points?](welcome-to-humn-onchain-sumr-season-1-finished.md)
 * [Why do I need a Humanity Score of 20?](score-20-start-collecting-humn-points.md)
 * [Guide to Collecting Stamps](../using-passport/scoring-20-for-humans.md)

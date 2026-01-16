@@ -4,7 +4,7 @@ description: >-
   Passport
 ---
 
-# Welcome to HUMN onchain SUMR: Season 1
+# Welcome to HUMN onchain SUMR: Season 1 \[finished]
 
 {% hint style="info" %}
 New to Human Passport? Start [here](../).
@@ -17,7 +17,7 @@ MetaMask OG bonus? See [here](humn-points-boosters/metamask-og-campaign.md).
 This is **Season 1 of HUMN Points**, focusing on Human Passport.
 
 {% hint style="success" %}
-You can read the official _HUMN onchain SUMR_ blog announcement [here](welcome-to-humn-onchain-sumr-season-1.md).&#x20;
+You can read the official _HUMN onchain SUMR_ blog announcement [here](welcome-to-humn-onchain-sumr-season-1-finished.md).&#x20;
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
