@@ -4,6 +4,10 @@ Please visit one of the following pages under this section to learn more about h
 
 
 
+{% content-ref url="humn-campaige-update-season-1-greater-than-season2.md" %}
+[humn-campaige-update-season-1-greater-than-season2.md](humn-campaige-update-season-1-greater-than-season2.md)
+{% endcontent-ref %}
+
 {% content-ref url="stamp-re-weight-january-2026.md" %}
 [stamp-re-weight-january-2026.md](stamp-re-weight-january-2026.md)
 {% endcontent-ref %}

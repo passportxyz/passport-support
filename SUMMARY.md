@@ -7,6 +7,7 @@
 ***
 
 * [What's new](whats-new/README.md)
+  * [HUMN campaige update: Season 1 -> Season2](whats-new/humn-campaige-update-season-1-greater-than-season2.md)
   * [Stamp re-weight: January 2026](whats-new/stamp-re-weight-january-2026.md)
   * [Passport Embed: Free for all builders!](whats-new/passport-embed-free-for-all-builders.md)
   * [The Human Passport App Visual Update](whats-new/the-human-passport-app-visual-update.md)
