@@ -40,25 +40,6 @@
   * [Can I integrate Human Passport into my project?](common-questions/can-i-integrate-gitcoin-passport-into-my-dapp.md)
   * [Does Human Passport support login with smart wallets?](common-questions/does-human-passport-support-login-with-smart-wallets.md)
 
-## HUMN Points Program
-
-* [HUMN Season 2 is live at manifest.human.tech](humn-points-program/humn-season-2-is-live-at-manifest.human.tech.md)
-* [HUMN Season 1: wrap-up](humn-points-program/humn-season-1-wrap-up.md)
-* [Welcome to HUMN onchain SUMR: Season 1 \[finished\]](humn-points-program/welcome-to-humn-onchain-sumr-season-1-finished.md)
-* [Score 20, start collecting HUMN Points](humn-points-program/score-20-start-collecting-humn-points.md)
-* [Quick guide to scoring HUMN Points](humn-points-program/quick-guide-to-scoring-humn-points.md)
-* [HUMN Points boosters](humn-points-program/humn-points-boosters/README.md)
-  * [Human Keys Creator](humn-points-program/humn-points-boosters/human-keys-creator.md)
-  * [Seasoned Passport OG Bonus](humn-points-program/humn-points-boosters/seasoned-passport-og-bonus.md)
-  * [Active Campaigns Participant](humn-points-program/humn-points-boosters/active-campaigns-participant.md)
-  * [Returning User - 2x Multiplier](humn-points-program/humn-points-boosters/returning-user-2x-multiplier.md)
-  * [MetaMask OG Campaign](humn-points-program/humn-points-boosters/metamask-og-campaign.md)
-* [HUMN Points FAQ](humn-points-program/humn-points-faq/README.md)
-  * [Is it necessary to score 20 in order to start seeing HUMN points?](humn-points-program/humn-points-faq/is-it-necessary-to-score-20-in-order-to-start-seeing-humn-points.md)
-  * [Is it strictly required to mint Passport onchain?](humn-points-program/humn-points-faq/is-it-strictly-required-to-mint-passport-onchain.md)
-  * [Does it matter on which chain do I mint my Passport?](humn-points-program/humn-points-faq/does-it-matter-on-which-chain-do-i-mint-my-passport.md)
-  * [What actions score points for users?](humn-points-program/humn-points-faq/what-actions-score-points-for-users.md)
-
 ## Using Passport
 
 * [Creating a Passport](using-passport/creating-a-passport.md)
@@ -121,3 +102,22 @@
 * [Initiating GTC Staking with your network](identity-staking/initiating-gtc-staking-with-your-network.md)
 * [Passport Slashing: What You Need to Know](identity-staking/passport-slashing.md)
 * [GTC Staking FAQ](identity-staking/gtc-staking-faq.md)
+
+## HUMN Points Program
+
+* [HUMN Season 2 is live at manifest.human.tech](humn-points-program/humn-season-2-is-live-at-manifest.human.tech.md)
+* [HUMN Season 1: wrap-up](humn-points-program/humn-season-1-wrap-up.md)
+* [Welcome to HUMN onchain SUMR: Season 1 \[finished\]](humn-points-program/welcome-to-humn-onchain-sumr-season-1-finished.md)
+* [Score 20, start collecting HUMN Points](humn-points-program/score-20-start-collecting-humn-points.md)
+* [Quick guide to scoring HUMN Points](humn-points-program/quick-guide-to-scoring-humn-points.md)
+* [HUMN Points boosters](humn-points-program/humn-points-boosters/README.md)
+  * [Human Keys Creator](humn-points-program/humn-points-boosters/human-keys-creator.md)
+  * [Seasoned Passport OG Bonus](humn-points-program/humn-points-boosters/seasoned-passport-og-bonus.md)
+  * [Active Campaigns Participant](humn-points-program/humn-points-boosters/active-campaigns-participant.md)
+  * [Returning User - 2x Multiplier](humn-points-program/humn-points-boosters/returning-user-2x-multiplier.md)
+  * [MetaMask OG Campaign](humn-points-program/humn-points-boosters/metamask-og-campaign.md)
+* [HUMN Points FAQ](humn-points-program/humn-points-faq/README.md)
+  * [Is it necessary to score 20 in order to start seeing HUMN points?](humn-points-program/humn-points-faq/is-it-necessary-to-score-20-in-order-to-start-seeing-humn-points.md)
+  * [Is it strictly required to mint Passport onchain?](humn-points-program/humn-points-faq/is-it-strictly-required-to-mint-passport-onchain.md)
+  * [Does it matter on which chain do I mint my Passport?](humn-points-program/humn-points-faq/does-it-matter-on-which-chain-do-i-mint-my-passport.md)
+  * [What actions score points for users?](humn-points-program/humn-points-faq/what-actions-score-points-for-users.md)
