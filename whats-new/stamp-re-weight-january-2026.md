@@ -46,18 +46,6 @@ This Stamp is especially helpful for users early in their crypto journey.
 
 [Learn more -> ](../stamps/how-do-i-add-passport-stamps/the-steam-stamp.md)
 
-#### Twitter/X Stamp - Beta
-
-The X Stamp returns in an updated format. This version focuses on stable account characteristics such as account age, follower count, and verification status.
-
-• Free to verify
-
-• Worth 3.2 points
-
-• Requires meeting all eligibility conditions
-
-[Learn more -> ](../stamps/how-do-i-add-passport-stamps/the-x-stamp.md)
-
 ***
 
 ### Updated Stamps

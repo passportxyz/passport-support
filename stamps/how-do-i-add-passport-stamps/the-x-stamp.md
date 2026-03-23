@@ -1,5 +1,9 @@
 # ☑️ The X Stamp
 
+{% hint style="warning" %}
+Retired – Twitter/X platform changes have caused us to retire this Stamp. We will consider re-adding it in the future.
+{% endhint %}
+
 The X Stamp is free to claim and verifies the status and longevity of an X account. It is based on existing account signals that indicate sustained, credible use over time.
 
 To qualify, an account must hold an eligible verified status, maintain a minimum follower count, and demonstrate age beyond one year. These signals help distinguish established accounts from newly created or low-effort profiles.
