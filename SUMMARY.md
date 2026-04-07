@@ -3,6 +3,7 @@
 ## Quick Start
 
 * [What is Human Passport?](README.md)
+* [What Is Proof of Personhood?](quick-start/what-is-proof-of-personhood.md)
 
 ***
 
